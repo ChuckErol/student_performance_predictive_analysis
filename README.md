@@ -1,1 +1,1 @@
-# student_performance_redictive_nalysis
+# student_performance_redictive_analysis
