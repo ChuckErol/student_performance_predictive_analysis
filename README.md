@@ -1,1 +1,1 @@
-# student_performance_preredictive_analysis
+# student_performance_predictive_analysis
