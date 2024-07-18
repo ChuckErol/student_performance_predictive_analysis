@@ -1,5 +1,5 @@
 Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,ParentalSupport,Extracurricular,Sports,Music,Volunteering,GPA,GradeClass
-17,female,caucasian,some-college,19.833722807854713,7,true,moderate,false,false,true,false,2.929195591667681,C
+17,female,caucasian,some-college,19.833722807854716,7,true,moderate,false,false,true,false,2.929195591667681,C
 18,male,caucasian,high-school,15.40875605584674,0,false,low,false,false,false,false,3.042914833436377,B
 15,male,asian,bachelors,4.21056976881226,26,false,moderate,false,false,false,false,0.1126022544661815,F
 17,female,caucasian,bachelors,10.028829473958217,14,false,high,true,false,false,false,2.0542181397029484,D
@@ -18,7 +18,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,other,high-school,10.098656081788002,14,false,moderate,true,true,false,false,2.232175277715976,D
 18,female,caucasian,none,3.5282382085577235,16,true,moderate,false,false,false,false,1.3844041756940335,F
 18,male,african-american,bachelors,16.25465808609359,29,false,moderate,true,false,false,true,0.4695533233798704,F
-17,male,caucasian,high-school,10.835206398820308,9,false,moderate,false,false,true,false,2.3957840945306996,D
+17,male,caucasian,high-school,10.835206398820308,9,false,moderate,false,false,true,false,2.3957840945307,D
 16,female,caucasian,bachelors,2.621597234094062,2,false,high,false,false,false,true,2.778411299920653,C
 15,male,caucasian,some-college,15.32314203165556,25,false,low,true,false,false,false,0.3468940367050148,F
 16,female,african-american,none,18.648879567547016,29,true,low,false,false,false,false,0.3125462305253549,F
@@ -26,7 +26,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,high-school,7.380354648223455,15,false,moderate,false,false,false,false,1.5051556220362858,F
 16,female,caucasian,bachelors,2.7103374712150807,5,false,very high,false,false,true,false,2.977851918315743,C
 16,male,caucasian,high-school,10.367992532661304,2,false,moderate,false,true,false,false,2.948717671911921,C
-16,female,caucasian,bachelors,2.2521845869844137,8,false,high,false,false,true,false,2.1452047204671914,D
+16,female,caucasian,bachelors,2.2521845869844137,8,false,high,false,false,true,false,2.145204720467192,D
 18,male,caucasian,none,18.679748370252344,10,false,high,true,false,false,false,2.854803928981318,C
 18,male,caucasian,some-college,3.67159254710292,20,false,high,true,false,false,false,1.519441725815139,F
 15,male,asian,some-college,5.055317199023282,12,true,none,false,true,false,false,1.727120309522409,F
@@ -41,8 +41,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,asian,high-school,12.233113512920282,21,true,high,true,true,false,false,1.5268678317927231,F
 17,female,other,some-college,11.314946131022918,23,true,low,false,false,false,false,1.0582873996898603,F
 17,male,caucasian,high-school,14.294046327645152,7,false,moderate,false,false,false,false,2.625128097732231,C
-16,female,other,some-college,18.754092307587353,12,true,very high,false,false,false,false,2.8087548220286536,C
-18,female,caucasian,high-school,18.245091222023113,9,false,moderate,false,true,false,false,2.8888916692724433,C
+16,female,other,some-college,18.754092307587356,12,true,very high,false,false,false,false,2.8087548220286536,C
+18,female,caucasian,high-school,18.245091222023117,9,false,moderate,false,true,false,false,2.888891669272444,C
 18,female,caucasian,high-school,18.921512361376628,1,true,high,true,true,false,false,4.0,A
 18,male,caucasian,some-college,4.894311940474019,7,false,very high,false,false,true,false,2.515300272256249,C
 18,male,african-american,some-college,2.6313061327870924,5,false,low,true,false,false,false,2.5637654300150947,C
@@ -59,23 +59,23 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,higher,10.87755842322235,29,false,high,true,false,false,false,0.2865712882866222,F
 17,male,caucasian,high-school,6.771080548741026,9,true,high,false,true,false,false,2.61383869367367,C
 15,female,other,none,9.468698671880976,23,false,high,false,true,false,false,0.9290125546259368,F
-17,female,african-american,high-school,12.26340721486234,10,false,none,true,false,true,false,1.8927586959265916,F
+17,female,african-american,high-school,12.26340721486234,10,false,none,true,false,true,false,1.892758695926592,F
 17,male,caucasian,high-school,17.376021916356407,12,false,moderate,false,false,true,false,2.331261549308754,D
 15,male,african-american,bachelors,13.238031529438572,11,false,high,false,true,false,false,2.234238472600233,D
 15,male,caucasian,high-school,8.680977369563614,8,false,moderate,false,true,false,false,2.3858282190764624,D
-17,male,caucasian,some-college,16.388557073407302,3,true,very high,false,false,false,false,3.3473567435078095,B
+17,male,caucasian,some-college,16.388557073407302,3,true,very high,false,false,false,false,3.347356743507809,B
 16,male,african-american,high-school,18.111642751462643,6,true,high,true,false,false,false,3.2618553073332905,B
 18,male,caucasian,higher,2.3951993286439444,23,false,high,false,true,false,false,1.0396238791477144,F
 15,female,caucasian,high-school,10.638659551055827,28,false,none,false,true,false,false,0.0278186247324679,F
 18,female,other,some-college,5.690239194848883,21,true,high,false,false,true,false,1.3299645378768772,F
-16,female,asian,high-school,0.941223957538948,1,false,very high,false,false,true,false,3.2839165218973836,B
+16,female,asian,high-school,0.941223957538948,1,false,very high,false,false,true,false,3.283916521897384,B
 16,male,african-american,some-college,13.370933902279706,6,false,moderate,true,false,false,false,2.937454182316864,C
 16,female,african-american,high-school,17.255415549184512,28,false,high,false,false,true,true,0.7388682028052602,F
 15,male,african-american,high-school,3.258053089547881,8,false,moderate,true,true,false,false,2.556801662833417,C
 16,male,caucasian,bachelors,16.24827315247801,4,true,moderate,false,false,false,false,3.300928568970799,B
 15,female,caucasian,bachelors,17.067914670738833,14,false,high,true,false,true,false,2.200682946560561,D
-16,male,caucasian,bachelors,18.28680885332967,17,false,high,false,true,false,false,1.8558655731681937,F
-18,male,caucasian,some-college,5.305701781721048,3,false,high,false,false,false,false,2.7344014944199917,C
+16,male,caucasian,bachelors,18.28680885332967,17,false,high,false,true,false,false,1.8558655731681932,F
+18,male,caucasian,some-college,5.305701781721048,3,false,high,false,false,false,false,2.734401494419992,C
 18,female,african-american,bachelors,18.079061303797783,18,true,low,true,true,false,false,2.1317372971872284,D
 17,female,caucasian,none,6.413255094728645,19,false,low,false,false,false,false,0.9797699107752862,F
 18,female,other,high-school,11.046760269110056,25,false,high,false,true,false,false,0.994325023551287,F
@@ -111,16 +111,16 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,asian,high-school,10.081401594968488,12,true,very high,false,false,false,false,2.587565796370635,C
 18,male,african-american,high-school,10.89763372058787,4,true,high,false,false,false,false,3.2208069781948727,B
 17,female,other,none,5.670143805418788,2,true,very high,false,false,true,false,3.5451594318003106,A
-18,female,caucasian,high-school,18.968503110829857,2,false,moderate,false,false,false,false,3.0895989530746473,B
-16,male,caucasian,high-school,16.8492821367115,18,true,low,false,true,true,false,1.9199564399182076,F
-17,male,asian,none,14.44747015265597,13,true,moderate,false,false,false,false,2.1985931845869615,D
+18,female,caucasian,high-school,18.968503110829857,2,false,moderate,false,false,false,false,3.0895989530746477,B
+16,male,caucasian,high-school,16.8492821367115,18,true,low,false,true,true,false,1.919956439918208,F
+17,male,asian,none,14.44747015265597,13,true,moderate,false,false,false,false,2.198593184586961,D
 18,female,caucasian,bachelors,1.5598773281881817,15,false,none,false,false,false,true,0.8782126167627767,F
 15,female,asian,none,2.122600386180389,21,false,high,true,false,true,false,1.340368647512407,F
-16,female,asian,some-college,9.855626917299114,16,false,very high,false,false,false,false,1.8195113357139092,F
-18,female,caucasian,high-school,3.2142669838197135,26,false,high,false,true,false,false,0.6193509314675341,F
+16,female,asian,some-college,9.855626917299114,16,false,very high,false,false,false,false,1.8195113357139088,F
+18,female,caucasian,high-school,3.214266983819713,26,false,high,false,true,false,false,0.6193509314675341,F
 15,male,asian,high-school,19.56530927058948,3,false,moderate,true,false,true,true,3.619460869693516,A
-18,female,caucasian,bachelors,3.170404680548189,12,true,low,true,true,false,false,2.1749027962098797,D
-15,female,african-american,high-school,9.74935670927948,7,true,low,false,true,true,false,2.9744060149110436,C
+18,female,caucasian,bachelors,3.170404680548189,12,true,low,true,true,false,false,2.17490279620988,D
+15,female,african-american,high-school,9.74935670927948,7,true,low,false,true,true,false,2.974406014911044,C
 16,male,african-american,higher,7.282421136830108,18,false,moderate,false,false,false,false,0.9807358437488028,F
 17,female,other,high-school,12.78772842908196,4,false,high,false,false,false,false,3.101673809015105,B
 15,male,caucasian,some-college,2.5807281777884983,1,true,moderate,true,false,true,false,3.4982573417733205,B
@@ -131,21 +131,21 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,high-school,18.274549880129182,22,true,high,false,false,false,false,1.3711850388917164,F
 18,female,caucasian,high-school,16.65988277106001,9,false,low,false,false,false,false,2.1047955879699045,D
 15,female,caucasian,bachelors,5.951414328816309,2,false,high,false,false,false,false,3.030439088696523,B
-15,male,asian,high-school,15.785813093542094,4,true,moderate,false,true,false,false,3.5824218723119596,A
+15,male,asian,high-school,15.785813093542094,4,true,moderate,false,true,false,false,3.58242187231196,A
 15,female,caucasian,high-school,0.6242712067749512,2,false,low,true,false,false,false,2.4265467060392454,D
 17,male,caucasian,some-college,19.33731100586787,5,true,moderate,true,false,false,false,3.161436270258364,B
 15,male,other,high-school,10.531898851795788,12,false,moderate,true,false,false,false,2.122638529628868,D
 15,female,caucasian,higher,6.065620521308905,9,false,high,false,true,false,false,2.204860580997317,D
 15,male,other,some-college,7.251664251893541,18,false,none,true,false,true,true,1.182987500498048,F
-17,female,african-american,some-college,1.3281070692099473,7,false,high,true,false,false,false,2.7387957163435996,C
+17,female,african-american,some-college,1.3281070692099473,7,false,high,true,false,false,false,2.7387957163436,C
 15,female,asian,bachelors,19.786990280840783,17,true,high,false,false,false,false,2.2379013009826028,D
-18,female,caucasian,none,0.7858389030138491,2,false,high,true,false,false,false,3.1394815463803876,B
+18,female,caucasian,none,0.7858389030138491,2,false,high,true,false,false,false,3.139481546380388,B
 15,female,caucasian,high-school,13.09814246295718,23,true,none,true,true,false,false,1.0460447710800969,F
 18,female,asian,some-college,8.854718554129166,23,true,high,false,false,false,false,0.8164582452137992,F
 18,male,asian,high-school,18.978324363774306,16,false,moderate,true,false,true,false,2.03354462052118,D
-18,male,asian,some-college,4.919994806135904,7,true,moderate,true,true,false,false,2.4320785227822372,D
+18,male,asian,some-college,4.919994806135904,7,true,moderate,true,true,false,false,2.432078522782237,D
 17,female,caucasian,bachelors,10.641736478760226,9,false,high,true,false,false,false,2.6597713195279016,C
-17,female,asian,some-college,9.64712417165506,1,true,moderate,true,false,false,true,3.5888879397650117,A
+17,female,asian,some-college,9.64712417165506,1,true,moderate,true,false,false,true,3.588887939765012,A
 17,male,asian,high-school,14.057328881002029,11,false,high,false,true,false,false,2.3145876278110027,D
 15,male,african-american,higher,1.3602046390484102,22,false,low,true,true,false,true,1.00722582021403,F
 18,male,asian,some-college,3.875782600467097,5,false,high,true,false,false,false,2.8816123214605245,C
@@ -159,7 +159,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,some-college,10.369859498844807,6,false,moderate,false,false,false,false,2.784237837142815,C
 15,female,caucasian,bachelors,7.046177684183565,28,false,moderate,false,false,false,false,0.2476267650865634,F
 18,male,caucasian,high-school,4.681155500349982,20,false,high,false,false,false,true,1.189548769618786,F
-17,male,asian,some-college,0.9956200304608752,4,true,high,true,false,false,true,3.3759940088028393,B
+17,male,asian,some-college,0.9956200304608752,4,true,high,true,false,false,true,3.3759940088028397,B
 15,female,other,bachelors,5.370001523949908,22,true,high,false,false,false,false,1.293573556445951,F
 18,male,caucasian,some-college,13.084715598906358,0,true,high,false,false,true,true,3.7185869042869646,A
 18,female,other,some-college,10.672338626184215,7,false,high,true,false,false,false,2.670559614819829,C
@@ -179,7 +179,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,other,high-school,10.889226642983372,25,true,moderate,true,false,true,false,1.1048937876999445,F
 15,female,caucasian,high-school,3.368811022638305,2,false,moderate,true,false,false,false,2.553439811443938,C
 17,male,other,some-college,15.209292125521332,1,false,high,true,false,false,true,3.2742334588098787,B
-15,male,caucasian,some-college,19.698582168829834,5,true,high,false,false,false,false,3.1860603780389143,B
+15,male,caucasian,some-college,19.698582168829837,5,true,high,false,false,false,false,3.1860603780389143,B
 17,male,caucasian,high-school,18.915494340169214,20,false,high,true,false,false,false,1.722115750240589,F
 16,male,caucasian,higher,3.942120776473044,8,false,moderate,true,true,false,false,2.3380463575903736,D
 17,female,african-american,some-college,17.507264798015214,9,true,very high,true,true,false,false,3.273998748434336,B
@@ -212,11 +212,11 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,asian,none,1.894778295586883,3,false,moderate,false,false,true,false,2.8393132491560324,C
 17,male,caucasian,bachelors,19.517417255670733,23,false,low,false,false,true,true,0.189818059909026,F
 15,male,caucasian,high-school,5.7251807076636645,1,false,high,true,false,false,false,3.25829468502287,B
-17,male,african-american,high-school,8.476163703471485,14,true,moderate,false,false,false,false,1.9200558526588951,F
+17,male,african-american,high-school,8.476163703471485,14,true,moderate,false,false,false,false,1.9200558526588956,F
 17,female,caucasian,bachelors,12.9972784340515,11,false,high,false,false,false,false,2.0217714943693785,D
 15,male,caucasian,some-college,0.4939459537222257,29,true,low,true,false,false,false,0.1259330746249498,F
 18,female,asian,high-school,16.205182610345737,26,true,moderate,true,false,false,false,1.2870134123902284,F
-15,female,caucasian,some-college,10.731563800572406,6,false,none,true,false,true,false,2.5914267032293132,C
+15,female,caucasian,some-college,10.731563800572406,6,false,none,true,false,true,false,2.591426703229313,C
 18,female,asian,bachelors,5.564343741376443,19,true,high,false,false,false,false,1.4633796485356,F
 17,female,caucasian,high-school,1.232159705849385,17,false,high,false,false,false,false,1.465549386433812,F
 17,female,caucasian,bachelors,3.2499683094888288,22,false,high,true,true,false,true,1.710466837709535,F
@@ -228,22 +228,22 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,asian,high-school,11.448154519355302,19,false,moderate,false,false,false,false,0.88186635307777,F
 16,male,caucasian,some-college,8.090390489164701,27,false,high,false,true,false,false,0.8170682206563473,F
 15,male,asian,some-college,7.272228983801277,12,true,none,false,false,false,false,1.4461325277019692,F
-15,male,asian,some-college,4.336285518582166,2,false,high,false,true,false,false,3.3390943622003117,B
+15,male,asian,some-college,4.336285518582166,2,false,high,false,true,false,false,3.339094362200312,B
 16,female,caucasian,high-school,13.392225130750353,25,false,moderate,false,false,false,false,0.8196254779474454,F
 18,female,other,high-school,19.41336055587741,25,false,moderate,false,false,false,false,0.6768179731112823,F
 18,female,caucasian,none,3.514304916736517,17,false,low,false,true,false,true,1.3895448744649723,F
-18,female,other,high-school,11.942332400310068,13,false,moderate,false,true,false,true,1.9915084140251775,F
+18,female,other,high-school,11.942332400310068,13,false,moderate,false,true,false,true,1.9915084140251773,F
 18,female,caucasian,some-college,8.483701114919524,14,false,none,false,true,false,false,1.6398675504146123,F
-18,female,african-american,bachelors,8.933774434893298,2,false,none,false,true,false,false,2.5117430206054214,C
+18,female,african-american,bachelors,8.933774434893298,2,false,none,false,true,false,false,2.511743020605421,C
 16,female,caucasian,some-college,5.082945602556288,0,false,high,false,false,true,false,2.9839199495864985,C
 16,male,caucasian,some-college,16.50269751322838,25,true,moderate,false,false,true,false,1.25865485443205,F
 17,male,african-american,higher,9.705112082944822,23,true,moderate,false,false,false,false,1.4179299273727557,F
 18,male,asian,some-college,10.86811704396528,16,false,low,true,false,true,false,1.5970165723817666,F
-16,male,caucasian,bachelors,6.095218255946515,2,true,moderate,false,true,false,false,3.0886998681859597,B
+16,male,caucasian,bachelors,6.095218255946515,2,true,moderate,false,true,false,false,3.08869986818596,B
 17,female,caucasian,some-college,3.636169313338995,13,false,none,true,true,false,false,1.6413414427787147,F
 18,female,asian,high-school,1.7182077640564095,2,false,moderate,false,true,false,false,2.5868706562634283,C
 15,female,african-american,none,14.282382818498318,12,true,moderate,false,false,false,false,2.389032645212185,D
-17,male,other,some-college,3.924685633757112,14,false,moderate,true,false,false,false,1.8981464002812252,F
+17,male,other,some-college,3.924685633757112,14,false,moderate,true,false,false,false,1.8981464002812247,F
 16,female,asian,high-school,13.801507083775954,17,false,very high,false,true,false,false,2.1104879749817496,D
 15,female,other,high-school,7.807528920939077,13,false,moderate,false,false,false,false,1.7002735894049137,F
 15,female,asian,some-college,8.315496019793029,20,false,moderate,true,false,false,false,1.0444999950877136,F
@@ -256,9 +256,9 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,other,some-college,5.724486144799887,18,true,none,false,false,false,false,1.0363787383257312,F
 17,male,african-american,bachelors,9.20205253115376,10,false,very high,true,false,false,true,2.403284547023526,D
 17,male,caucasian,some-college,3.8689445602387496,0,true,high,false,false,false,false,3.1565080639094454,B
-16,female,caucasian,some-college,4.2074416305967155,7,true,moderate,false,true,true,false,2.723471858740064,C
+16,female,caucasian,some-college,4.207441630596716,7,true,moderate,false,true,true,false,2.723471858740064,C
 18,female,caucasian,high-school,0.4609417681321481,14,false,low,true,true,false,false,1.5309511463109082,F
-17,male,caucasian,some-college,17.934930998154893,0,false,low,false,false,false,false,3.4685813491357274,B
+17,male,caucasian,some-college,17.934930998154893,0,false,low,false,false,false,false,3.468581349135728,B
 15,female,caucasian,some-college,4.214133301498125,6,false,low,true,false,false,false,2.3020320443414053,D
 16,male,caucasian,some-college,4.550677538729266,20,true,low,true,false,false,false,1.265677909199434,F
 15,male,asian,some-college,5.592028652902636,19,false,moderate,true,true,false,true,1.479602227739032,F
@@ -277,8 +277,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,african-american,high-school,8.742962100900693,9,false,moderate,true,false,false,true,2.592786686317039,C
 15,male,asian,bachelors,5.357471656348816,23,false,none,true,true,false,false,0.9123305070955544,F
 16,male,caucasian,bachelors,12.080099954790002,28,true,high,false,false,false,false,0.6956309334599464,F
-15,male,african-american,some-college,17.42667184680565,13,true,moderate,false,false,false,false,2.1396198913689854,D
-16,female,caucasian,high-school,19.978093995261535,17,false,high,false,false,false,false,1.5504493308923313,F
+15,male,african-american,some-college,17.42667184680565,13,true,moderate,false,false,false,false,2.139619891368985,D
+16,female,caucasian,high-school,19.97809399526153,17,false,high,false,false,false,false,1.5504493308923313,F
 18,female,asian,some-college,12.15525537486849,21,false,very high,false,false,false,true,1.5475367003506038,F
 18,male,caucasian,none,8.094117486583404,8,true,high,false,false,true,false,2.966548034294946,C
 16,male,asian,some-college,4.5041420043240326,16,false,moderate,true,false,false,true,1.6336793710032238,F
@@ -292,11 +292,11 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,higher,16.732404207353163,20,true,very high,false,true,true,false,1.8476004181084256,F
 17,male,caucasian,some-college,13.015766416938035,18,false,very high,true,false,false,false,1.849760707133483,F
 15,female,caucasian,some-college,12.283377006377854,3,false,very high,false,false,true,false,3.268794215560215,B
-16,male,caucasian,high-school,6.6828604476772435,6,true,none,false,false,false,true,2.546516637246023,C
+16,male,caucasian,high-school,6.682860447677244,6,true,none,false,false,false,true,2.546516637246023,C
 16,male,caucasian,some-college,16.35808353664879,3,false,very high,false,false,false,false,3.1012292205041274,B
 18,female,caucasian,some-college,0.7672772271140227,24,false,very high,false,false,true,false,0.6559540779626771,F
 16,male,caucasian,none,17.415943446762263,10,true,very high,false,true,false,false,3.088512305616677,B
-17,female,caucasian,high-school,10.254997995878592,11,true,high,false,false,false,false,1.9925598054819995,F
+17,female,caucasian,high-school,10.254997995878592,11,true,high,false,false,false,false,1.992559805482,F
 15,female,african-american,bachelors,7.965004697268256,13,true,high,false,true,false,false,2.605247445547851,C
 18,male,african-american,high-school,9.943345614353714,12,true,low,false,false,false,false,1.7339724542334658,F
 15,female,caucasian,high-school,13.348310610676622,28,false,high,true,false,false,false,1.11384878785912,F
@@ -310,14 +310,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,bachelors,8.072933889869557,25,false,low,true,false,false,false,0.322286081625407,F
 16,male,other,high-school,13.573201876537942,27,false,high,false,true,false,false,1.129514334361546,F
 18,female,caucasian,none,8.41793057518452,23,false,moderate,true,false,false,false,0.6307569438666114,F
-17,male,caucasian,some-college,19.228351556931468,7,false,moderate,false,false,true,true,3.1572296388040932,B
+17,male,caucasian,some-college,19.228351556931468,7,false,moderate,false,false,true,true,3.157229638804093,B
 18,female,asian,bachelors,11.985550356471837,24,false,low,false,false,false,false,0.680087787496653,F
 17,female,asian,high-school,16.14955871303818,25,false,none,false,false,false,false,0.7963598478866475,F
 17,male,caucasian,some-college,2.187118062189577,5,true,low,false,true,false,false,2.844039214925591,C
-18,female,caucasian,none,7.945825858918115,15,true,none,false,true,false,false,1.253451854215859,F
+18,female,caucasian,none,7.945825858918114,15,true,none,false,true,false,false,1.253451854215859,F
 17,female,caucasian,some-college,6.736954028943054,27,false,very high,false,false,false,false,0.534508880538856,F
-15,female,caucasian,some-college,11.389647762731837,3,true,high,true,false,false,false,3.1910461182199175,B
-17,female,asian,some-college,17.222270401228513,11,false,high,false,false,true,false,2.8154212753091197,C
+15,female,caucasian,some-college,11.389647762731837,3,true,high,true,false,false,false,3.191046118219917,B
+17,female,asian,some-college,17.222270401228513,11,false,high,false,false,true,false,2.81542127530912,C
 16,male,african-american,high-school,1.5667643552401334,10,false,high,false,false,false,false,2.1571223032650955,D
 18,female,caucasian,high-school,1.4514959608942155,2,false,low,true,false,false,false,2.7238280604010647,C
 15,female,caucasian,high-school,17.00635416315198,11,false,very high,true,false,false,false,2.627693905554347,C
@@ -326,7 +326,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,african-american,some-college,10.857562647216104,5,true,low,false,true,false,false,2.981992255406158,C
 16,male,other,higher,16.657871897744588,18,false,high,false,false,false,false,1.625082773696198,F
 17,male,asian,higher,2.5017781967280706,17,false,high,false,true,false,false,1.3616984178594074,F
-17,female,caucasian,bachelors,2.5956593144522255,15,true,high,false,false,false,false,1.9169618961294344,F
+17,female,caucasian,bachelors,2.595659314452225,15,true,high,false,false,false,false,1.9169618961294344,F
 18,female,asian,some-college,11.13636720556615,22,false,none,false,false,false,false,1.011253194616751,F
 18,male,asian,some-college,18.92757306716742,10,false,low,true,true,false,false,2.3321590405051187,D
 15,female,asian,high-school,8.299955167415085,4,false,moderate,true,true,true,false,3.387938347765993,B
@@ -334,24 +334,24 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,some-college,12.133786463957716,2,false,none,false,false,false,false,2.7808169956104924,C
 17,female,caucasian,some-college,18.608972010900622,29,false,moderate,false,true,false,true,0.5348357535394734,F
 16,female,caucasian,some-college,16.738556656892474,7,false,moderate,false,false,false,false,2.542214348782037,C
-18,male,caucasian,high-school,19.909672214664397,5,false,high,false,false,false,false,3.0071290674312805,B
+18,male,caucasian,high-school,19.9096722146644,5,false,high,false,false,false,false,3.0071290674312805,B
 15,male,caucasian,high-school,0.4513716640475418,3,false,moderate,true,false,false,false,2.9858098143768106,C
 17,male,caucasian,bachelors,2.2571628942552446,11,false,moderate,false,true,false,false,1.9493060573283008,F
 18,male,asian,none,12.18935526733244,11,false,high,false,false,false,false,2.1478451963634986,D
 18,female,caucasian,some-college,16.411528786676996,24,false,very high,false,false,false,true,1.1757680252358405,F
 17,female,caucasian,bachelors,5.704886846135331,20,false,low,true,false,false,false,1.4003632540944204,F
 18,female,other,some-college,4.784221760684375,15,false,low,true,false,true,false,1.7555440233413917,F
-17,female,other,some-college,15.739515987624015,9,false,very high,true,false,true,false,2.9000962392055474,C
+17,female,other,some-college,15.739515987624015,9,false,very high,true,false,true,false,2.900096239205548,C
 16,female,asian,high-school,1.1276370770646316,21,false,moderate,false,false,false,false,1.0334594906901564,F
 17,male,other,high-school,7.387652951651702,13,false,high,false,false,false,true,1.907742363387151,F
 17,female,african-american,bachelors,10.116184451846594,12,false,high,false,false,false,false,1.880909289765476,F
 17,female,other,some-college,11.206973487006469,8,false,low,false,true,true,false,2.614950353949793,C
 18,female,caucasian,some-college,14.572303135855538,6,false,high,true,false,true,false,3.1071355935726115,B
 18,female,caucasian,none,7.096914468613164,11,false,high,false,false,false,false,1.3864645615000095,F
-17,female,caucasian,none,12.253686893492144,4,false,moderate,false,false,false,false,2.8337600718448113,C
+17,female,caucasian,none,12.253686893492144,4,false,moderate,false,false,false,false,2.8337600718448117,C
 18,male,caucasian,higher,11.707508455819127,17,false,none,false,false,true,false,1.0861513973549914,F
 15,male,caucasian,high-school,10.952322013074944,3,false,very high,false,false,false,false,2.874037360035303,C
-15,male,african-american,some-college,12.809665862844245,1,false,moderate,false,true,false,false,2.8956713046591833,C
+15,male,african-american,some-college,12.809665862844245,1,false,moderate,false,true,false,false,2.8956713046591838,C
 18,female,asian,none,5.188983421361526,2,true,high,false,false,false,false,3.1813076022771107,B
 18,male,african-american,some-college,1.6929750716925795,25,false,high,false,false,false,false,0.4712831088434319,F
 17,male,caucasian,bachelors,2.3854334407948685,11,true,moderate,false,false,false,false,2.2113795279733512,D
@@ -372,32 +372,32 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,some-college,15.59063363647866,26,false,high,false,false,false,false,0.6237474365472879,F
 18,male,caucasian,high-school,5.051720133694484,22,false,moderate,false,false,true,false,0.3410294459251265,F
 16,male,caucasian,high-school,16.59287610705857,8,false,none,false,false,false,false,2.223813666751698,D
-18,female,other,some-college,14.078733340690308,11,false,high,false,false,false,true,2.3282403846301514,D
+18,female,other,some-college,14.078733340690308,11,false,high,false,false,false,true,2.328240384630152,D
 15,female,african-american,some-college,18.91347074101609,22,true,moderate,true,false,false,false,1.6230778220088506,F
 18,male,caucasian,high-school,8.178544715133441,8,true,low,true,false,false,false,2.200896321528595,D
 18,male,african-american,some-college,13.239396789012684,14,false,very high,false,true,false,false,2.5841106550638626,C
 15,male,african-american,none,9.297095616265414,1,false,low,true,false,false,false,2.9965033042477023,C
-16,male,caucasian,high-school,12.61177394617087,10,false,high,false,false,true,false,2.3739934814358454,D
+16,male,caucasian,high-school,12.61177394617087,10,false,high,false,false,true,false,2.373993481435845,D
 15,male,caucasian,some-college,8.991978120154746,10,true,high,true,false,false,false,2.8304044557095467,C
 18,female,asian,high-school,3.7726449284814967,7,false,moderate,true,true,false,true,2.5251155338354896,C
 16,female,caucasian,higher,10.157948320067618,22,false,low,true,false,false,false,1.0429816505882752,F
-18,female,african-american,high-school,10.571684028748846,5,false,moderate,true,false,false,true,2.6610969036702157,C
+18,female,african-american,high-school,10.571684028748846,5,false,moderate,true,false,false,true,2.661096903670216,C
 15,female,caucasian,high-school,16.21207696520322,20,false,high,false,false,false,false,1.599593887728051,F
 15,male,caucasian,high-school,14.710414115871624,19,true,low,true,false,false,false,1.7994091491725042,F
 18,male,caucasian,some-college,13.275832478828882,6,false,high,false,false,false,false,2.6576385566960075,C
 17,male,caucasian,some-college,2.2677419110514507,2,false,very high,false,false,false,false,2.998484061883098,C
 17,male,caucasian,some-college,14.4123258132743,7,false,very high,false,false,true,false,2.977408432892682,C
 15,male,caucasian,none,10.006103127090295,17,false,moderate,false,false,false,false,1.3751641369478076,F
-15,female,asian,none,17.881990722123184,16,false,high,true,false,false,true,1.8488664401912396,F
-17,male,other,some-college,18.397418682610855,10,false,very high,false,false,false,false,2.4424562001292713,D
-17,female,asian,bachelors,1.1031318120357092,1,false,moderate,true,false,false,false,2.856038514353211,C
+15,female,asian,none,17.881990722123184,16,false,high,true,false,false,true,1.84886644019124,F
+17,male,other,some-college,18.39741868261085,10,false,very high,false,false,false,false,2.442456200129272,D
+17,female,asian,bachelors,1.1031318120357092,1,false,moderate,true,false,false,false,2.8560385143532114,C
 18,female,asian,bachelors,16.412831207089575,24,true,low,true,false,false,false,1.206150230255099,F
 18,female,caucasian,none,0.7539478084534124,20,false,low,true,true,false,false,0.8959029903990774,F
 17,female,other,some-college,7.343392513900453,26,false,low,false,false,false,false,0.2731909291583428,F
 18,male,caucasian,bachelors,10.845999512421582,23,false,high,false,false,true,false,0.66750896106505,F
 18,female,other,high-school,2.962015972542549,18,false,moderate,false,false,false,false,1.0894406041524294,F
 16,female,other,bachelors,14.926276251381536,6,false,high,false,false,false,false,2.813211008121627,C
-18,female,asian,high-school,0.1670940834427714,17,true,high,true,false,false,true,1.868758589707198,F
+18,female,asian,high-school,0.1670940834427714,17,true,high,true,false,false,true,1.8687585897071977,F
 15,male,other,bachelors,3.3719809686807367,7,false,high,true,true,false,false,3.0356935955108426,B
 18,male,african-american,some-college,11.615936597069512,13,false,high,false,false,false,true,2.13535680128746,D
 18,male,caucasian,bachelors,14.287751240745848,6,false,none,true,false,true,false,3.038116129209991,B
@@ -408,7 +408,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,other,high-school,0.0256885105360282,3,false,very high,true,false,false,false,2.934586305266487,C
 18,male,caucasian,some-college,2.403185174712439,16,false,very high,true,false,false,false,2.0469388171096283,D
 18,female,asian,some-college,10.691090895120784,4,false,moderate,true,false,false,false,3.065473133634235,B
-16,female,other,bachelors,13.502597716888394,11,false,moderate,false,true,false,false,2.4370263001142716,D
+16,female,other,bachelors,13.502597716888394,11,false,moderate,false,true,false,false,2.437026300114272,D
 17,female,other,high-school,8.34896567792925,8,false,high,false,true,false,false,2.427614635957672,D
 18,female,other,some-college,14.613580230567804,25,false,low,false,false,false,false,0.7771509547591905,F
 16,male,african-american,some-college,10.437245906643575,19,true,low,true,true,true,false,1.879575445166732,F
@@ -417,7 +417,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,high-school,16.799964464878858,27,false,moderate,true,true,false,false,0.7641866973896485,F
 15,male,caucasian,high-school,14.49825493248879,17,true,moderate,true,false,false,false,1.503416679305313,F
 16,female,asian,higher,17.8952397402499,19,true,moderate,true,false,false,false,1.5258378621561266,F
-18,male,caucasian,some-college,2.3511449824187314,8,false,low,true,true,false,false,2.2708411075244164,D
+18,male,caucasian,some-college,2.351144982418732,8,false,low,true,true,false,false,2.2708411075244164,D
 16,male,african-american,some-college,19.80445069230148,3,false,moderate,false,false,false,false,3.402352538644452,B
 16,male,african-american,higher,4.188134278998672,20,true,moderate,false,true,false,false,1.4382049683676248,F
 16,female,caucasian,high-school,0.2355975257328402,26,false,moderate,false,false,true,false,0.3365712986081556,F
@@ -435,12 +435,12 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,asian,some-college,4.224165171759033,19,false,high,false,true,true,false,1.5487102111350304,F
 18,female,asian,high-school,6.263641014072703,5,true,low,true,false,false,false,2.905242112307261,C
 18,male,caucasian,none,3.576821370155987,27,false,low,false,true,false,false,0.2489771312307257,F
-18,male,caucasian,high-school,18.038322156757655,0,true,none,true,false,false,false,3.4184098665461984,B
+18,male,caucasian,high-school,18.03832215675765,0,true,none,true,false,false,false,3.4184098665461984,B
 18,male,caucasian,some-college,7.943737726342577,27,true,low,false,false,false,false,0.5829208864689581,F
 17,female,caucasian,high-school,4.905586099487347,24,false,moderate,false,true,false,false,0.930028645913522,F
 17,female,african-american,high-school,8.968156820318658,4,false,moderate,true,false,true,false,2.679085718058188,C
-15,male,caucasian,high-school,6.4107233361299105,2,true,low,false,false,false,true,3.1062304249844512,B
-18,male,caucasian,none,14.88838507626652,3,false,none,true,false,false,true,2.7812878837000317,C
+15,male,caucasian,high-school,6.410723336129911,2,true,low,false,false,false,true,3.1062304249844512,B
+18,male,caucasian,none,14.88838507626652,3,false,none,true,false,false,true,2.781287883700032,C
 15,male,caucasian,some-college,19.424398237709887,0,false,high,false,true,true,true,4.0,A
 18,male,other,bachelors,8.760673133952936,13,false,high,true,true,true,false,2.3327839636333105,D
 18,female,other,high-school,17.220667999444807,8,true,very high,true,false,false,false,3.0677183698465544,B
@@ -448,7 +448,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,asian,some-college,3.1447133018846696,23,false,very high,false,true,false,true,1.5205038773800068,F
 16,male,caucasian,some-college,13.812454841626831,3,false,high,true,true,true,true,3.2898231421759827,B
 17,male,caucasian,some-college,10.268689942516405,17,true,high,true,false,false,false,2.1757392926719743,D
-16,male,asian,some-college,13.01213046504207,13,false,low,false,false,false,false,1.8524286908169376,F
+16,male,asian,some-college,13.01213046504207,13,false,low,false,false,false,false,1.8524286908169372,F
 16,male,other,some-college,17.7937482514333,24,false,high,true,true,false,true,1.4772887703973712,F
 16,male,other,none,8.808691413120922,3,false,none,false,false,false,false,2.878926862568036,C
 16,female,african-american,some-college,18.023552464347112,24,false,high,false,true,true,false,1.0580507720986625,F
@@ -474,9 +474,9 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,none,6.391788525199966,6,true,moderate,true,false,true,false,3.2389317177358112,B
 18,male,african-american,some-college,11.83615815326652,11,true,high,true,true,false,false,2.573034385056746,C
 17,female,african-american,some-college,1.444586965449557,24,false,none,false,false,false,false,0.0,F
-18,female,asian,bachelors,2.949060185323591,2,true,high,false,true,false,true,3.1439098781210157,B
+18,female,asian,bachelors,2.949060185323591,2,true,high,false,true,false,true,3.143909878121016,B
 15,female,caucasian,high-school,1.4649120821478023,25,true,moderate,true,false,false,false,1.04646340029671,F
-18,male,caucasian,bachelors,16.246346654282377,3,false,moderate,false,false,false,true,2.8685742282208135,C
+18,male,caucasian,bachelors,16.246346654282377,3,false,moderate,false,false,false,true,2.868574228220813,C
 15,female,asian,some-college,15.048184664240186,9,false,high,false,false,false,false,2.6394472915746228,C
 18,female,other,none,15.06625863758514,3,false,low,false,false,false,false,2.669749932596335,C
 18,male,asian,higher,14.32650686952056,14,true,high,false,true,true,false,2.794885282534225,C
@@ -488,7 +488,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,african-american,high-school,15.557554110737543,15,true,moderate,true,false,false,false,2.222002853095735,D
 18,female,caucasian,high-school,10.007167207687804,14,false,moderate,false,false,false,true,1.6150931484836668,F
 15,female,caucasian,high-school,7.150266568544739,18,false,low,true,true,false,true,1.6759194307143808,F
-15,male,asian,some-college,5.5485346960195825,28,false,moderate,true,false,false,false,0.2143195035843396,F
+15,male,asian,some-college,5.548534696019583,28,false,moderate,true,false,false,false,0.2143195035843396,F
 18,male,caucasian,some-college,12.85604100324165,19,true,low,true,false,false,false,1.5567655569083212,F
 15,male,caucasian,high-school,13.856023972598177,18,false,very high,true,true,false,false,2.154199353389932,D
 15,female,caucasian,high-school,17.41935199725085,17,false,high,false,true,false,false,2.0706693123979414,D
@@ -496,14 +496,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,african-american,bachelors,15.395446147711713,11,false,low,true,false,false,false,2.162688107920216,D
 17,female,caucasian,high-school,11.22711648378676,24,true,high,false,false,true,false,1.2912304259430896,F
 17,male,asian,higher,17.656729813561583,15,false,moderate,false,true,true,false,2.340156389104695,D
-18,male,asian,some-college,10.556242165912415,0,false,low,false,false,false,false,2.9239697400630495,C
+18,male,asian,some-college,10.556242165912415,0,false,low,false,false,false,false,2.923969740063049,C
 15,female,caucasian,high-school,10.352596567959344,15,true,moderate,true,false,true,false,2.1901466017791726,D
 18,male,african-american,bachelors,11.557541628818182,1,false,moderate,false,false,false,false,3.0742141920071315,B
 17,female,asian,some-college,14.986307102848688,23,false,low,false,false,false,false,1.009430321848957,F
 15,male,african-american,some-college,19.293809576569217,14,false,high,true,true,false,false,2.118500601923897,D
 15,male,caucasian,higher,1.471267084315313,6,false,high,true,false,false,false,2.615347947639846,C
 18,male,asian,none,1.0686920478203432,27,false,none,false,true,true,false,0.4159305071778432,F
-17,female,african-american,none,18.75100674814677,0,true,very high,true,false,false,false,3.9470929642201784,A
+17,female,african-american,none,18.75100674814677,0,true,very high,true,false,false,false,3.9470929642201775,A
 15,male,caucasian,some-college,10.597512510364124,4,true,moderate,false,true,false,false,3.0173532270832526,B
 18,female,caucasian,high-school,12.298060291338722,9,true,low,true,false,false,false,2.813786291054958,C
 17,female,caucasian,high-school,9.648472031894578,21,false,low,false,false,false,false,0.7696361214560695,F
@@ -511,19 +511,19 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,asian,none,15.36178756837333,3,true,moderate,true,true,false,false,3.666290826527483,A
 15,male,caucasian,some-college,14.94449290177174,13,false,low,false,true,false,false,1.4015482387657991,F
 16,female,caucasian,high-school,6.23406642985624,12,false,moderate,false,false,false,true,1.4233383361752172,F
-17,female,african-american,some-college,6.124784904568008,0,false,low,true,false,false,true,3.1496447435255135,B
+17,female,african-american,some-college,6.124784904568008,0,false,low,true,false,false,true,3.149644743525513,B
 16,male,caucasian,some-college,16.75682761811037,15,true,high,false,true,false,true,2.353731151756538,D
 16,female,other,some-college,1.4471451548265324,22,false,high,true,true,false,false,1.1613543513353255,F
 17,male,caucasian,none,17.622102967131315,8,true,moderate,false,false,false,false,2.6471959858736853,C
 18,female,caucasian,some-college,5.1332337979182885,21,false,high,false,true,true,false,1.2989979848488324,F
 16,male,caucasian,none,11.859694955109878,15,true,very high,true,false,false,false,2.6441973683601545,C
-18,female,caucasian,some-college,18.719883580035553,18,false,high,false,false,false,false,1.737989618721448,F
+18,female,caucasian,some-college,18.719883580035557,18,false,high,false,false,false,false,1.737989618721448,F
 16,male,caucasian,bachelors,13.56245003073293,14,false,moderate,false,false,false,false,2.0187768989965207,D
 18,female,asian,some-college,8.288596249340731,25,false,moderate,false,true,false,false,0.7177804975968944,F
 17,female,other,some-college,13.790684178108304,13,false,high,true,false,false,false,2.2675844008883907,D
 16,male,caucasian,some-college,6.879592726327404,19,true,low,false,false,false,false,1.2714946229661936,F
 17,male,african-american,high-school,5.545168326983722,9,true,moderate,false,true,false,false,2.6216668933929705,C
-16,male,asian,bachelors,19.93366555869359,20,false,moderate,false,false,false,false,1.228528505250038,F
+16,male,asian,bachelors,19.933665558693598,20,false,moderate,false,false,false,false,1.228528505250038,F
 17,male,asian,bachelors,15.015804623595754,11,false,high,false,true,false,true,2.4953123609841468,D
 17,female,caucasian,high-school,12.894399547636352,27,false,high,false,true,false,false,0.7017618078332725,F
 16,female,caucasian,some-college,7.105792864386375,0,false,moderate,true,true,true,false,3.8649768612963977,A
@@ -540,21 +540,21 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,african-american,some-college,1.4475278638824496,21,false,low,false,false,false,false,0.2700885546341743,F
 16,male,african-american,higher,19.08263283142145,25,false,high,false,false,true,false,1.316724623344178,F
 17,male,caucasian,none,4.465108021387218,20,false,moderate,true,false,false,false,0.8177142023856205,F
-16,male,african-american,some-college,18.446155509671694,11,false,none,false,true,false,false,2.056945969742978,D
+16,male,african-american,some-college,18.44615550967169,11,false,none,false,true,false,false,2.056945969742978,D
 17,male,asian,none,8.517863100733635,6,true,high,true,false,false,false,3.219333348074609,B
 16,male,caucasian,high-school,19.71048266510436,13,true,moderate,false,false,false,false,2.2408700600381573,D
 15,female,asian,some-college,11.081167669204214,14,true,moderate,false,true,false,false,1.9137997969013387,F
 18,male,african-american,some-college,18.616657283516147,14,false,high,false,false,true,false,2.240334376463302,D
-15,male,other,high-school,0.1069797738844569,5,false,low,true,false,false,false,2.2545475861917157,D
+15,male,other,high-school,0.1069797738844569,5,false,low,true,false,false,false,2.254547586191716,D
 18,male,caucasian,high-school,14.964776123618002,20,false,low,true,true,true,false,1.8913004299388907,F
 16,male,caucasian,none,18.061013062050307,13,false,low,false,false,true,false,2.2062263414776675,D
-17,male,african-american,high-school,2.7944113395790815,1,true,moderate,false,true,false,false,3.335098154642011,B
+17,male,african-american,high-school,2.794411339579081,1,true,moderate,false,true,false,false,3.335098154642011,B
 15,male,caucasian,higher,1.9225170346430296,7,false,low,true,true,false,false,2.4119864614713284,D
 18,male,asian,bachelors,8.491452143719112,12,false,high,false,true,false,false,2.1609785190420574,D
 15,female,asian,high-school,18.673578122658704,22,false,low,false,true,false,false,1.165394363121266,F
 18,female,caucasian,some-college,10.847731203808774,5,false,very high,false,false,false,false,2.58350063639477,C
 15,male,african-american,bachelors,10.549129274434645,4,true,low,false,true,false,false,3.017063255946228,B
-18,female,african-american,none,2.822522365986438,4,false,low,true,true,false,true,2.5761746968185832,C
+18,female,african-american,none,2.8225223659864374,4,false,low,true,true,false,true,2.5761746968185832,C
 18,female,caucasian,bachelors,0.0157902218643757,24,false,low,false,false,false,false,0.2333498804715068,F
 16,female,other,bachelors,16.202801814909225,0,false,high,true,false,false,false,3.646516388949796,A
 18,female,asian,none,1.7514912597247645,8,true,moderate,true,true,false,false,2.6054252316173008,C
@@ -569,7 +569,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,asian,higher,6.024625895878164,4,false,low,false,false,false,false,2.326326756466653,D
 17,male,caucasian,high-school,9.267820176092926,7,true,high,false,true,true,false,3.303066678642581,B
 17,male,caucasian,some-college,11.988610840552434,6,false,low,false,false,false,false,2.4892182377565297,D
-16,female,caucasian,some-college,3.4254682133247916,12,true,low,true,true,true,false,2.600264186907329,C
+16,female,caucasian,some-college,3.425468213324792,12,true,low,true,true,true,false,2.600264186907329,C
 17,female,other,some-college,14.832756372352415,12,false,high,false,false,false,false,2.119171492034809,D
 15,female,asian,high-school,6.052806812736291,7,false,very high,false,false,false,false,2.522694547891483,C
 16,male,asian,higher,13.24743719825507,10,true,moderate,false,false,false,false,2.475854110200245,D
@@ -578,7 +578,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,other,some-college,2.563761456209235,17,true,none,true,false,false,false,1.2836220775478306,F
 16,male,caucasian,high-school,8.507129925399672,24,false,moderate,true,false,false,false,0.6431459327503606,F
 16,female,caucasian,some-college,4.944121474777536,18,true,moderate,false,false,false,false,1.6692302172984,F
-16,female,caucasian,some-college,14.96750498856365,5,false,high,false,false,false,false,3.2820700505937532,B
+16,female,caucasian,some-college,14.96750498856365,5,false,high,false,false,false,false,3.282070050593753,B
 16,male,asian,some-college,5.240700090137491,21,false,moderate,false,true,false,false,0.7437140169647167,F
 15,male,asian,higher,17.634346127907925,1,false,moderate,false,false,false,true,3.3250668431789085,B
 18,male,caucasian,some-college,17.836404228132256,27,false,moderate,true,true,false,true,1.184519764401664,F
@@ -589,25 +589,25 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,other,high-school,14.266434590025446,25,false,high,true,true,false,false,1.2993555178087297,F
 18,male,caucasian,some-college,13.188464936998326,10,false,moderate,false,false,false,true,2.379628283206932,D
 15,female,caucasian,some-college,12.49401338813216,0,false,high,false,false,false,false,3.5662831299671103,A
-15,male,asian,some-college,5.6508172732488715,23,false,low,false,false,false,false,0.2783475708696343,F
+15,male,asian,some-college,5.650817273248872,23,false,low,false,false,false,false,0.2783475708696343,F
 18,male,asian,some-college,7.560498988688041,1,false,low,false,false,false,false,2.4215468827715467,D
-15,female,african-american,some-college,2.0589228940057236,29,false,very high,false,true,false,true,0.6176804235913715,F
+15,female,african-american,some-college,2.058922894005724,29,false,very high,false,true,false,true,0.6176804235913715,F
 18,female,other,high-school,14.38045640867202,16,false,high,false,false,false,false,1.804726657837384,F
-18,female,caucasian,bachelors,10.077775935825471,7,false,moderate,true,false,false,false,2.6352081296382535,C
+18,female,caucasian,bachelors,10.077775935825471,7,false,moderate,true,false,false,false,2.635208129638253,C
 18,male,african-american,high-school,14.175312646913092,1,false,high,false,false,false,true,3.436025388769573,B
-15,male,asian,high-school,4.978870495937455,5,false,very high,false,false,true,true,2.7373779261627593,C
+15,male,asian,high-school,4.978870495937455,5,false,very high,false,false,true,true,2.7373779261627598,C
 17,female,asian,some-college,6.488764572701324,21,true,low,true,false,false,true,1.1466960797952552,F
 18,female,caucasian,high-school,6.684306745202293,4,false,none,false,false,false,false,2.4052675257641485,D
 16,female,asian,none,0.514848194944324,15,true,moderate,false,false,true,false,1.5252820489261911,F
-15,female,african-american,some-college,6.82095745661247,7,false,low,true,true,false,false,2.4461570806358237,D
+15,female,african-american,some-college,6.82095745661247,7,false,low,true,true,false,false,2.446157080635824,D
 18,female,caucasian,some-college,16.06609147036067,18,true,low,true,false,true,false,1.9529530122549463,F
 18,female,caucasian,some-college,17.94596991499477,15,false,high,true,false,false,false,2.293087191388992,D
 16,male,asian,higher,10.364366312718548,12,false,none,false,false,true,false,1.4716720294797634,F
 17,male,caucasian,some-college,9.110033904384403,25,true,high,false,false,false,true,1.106713497753671,F
 17,male,caucasian,bachelors,0.6164923739874051,19,false,moderate,false,true,false,true,1.2058569757056352,F
 17,female,caucasian,high-school,17.584086751707652,6,false,moderate,false,false,false,false,2.5590703550177483,C
-18,female,asian,some-college,0.2602042685174544,15,false,high,true,true,true,false,2.4576510224957073,D
-18,female,african-american,bachelors,18.895001604204236,22,true,moderate,false,false,false,false,1.2267412857712765,F
+18,female,asian,some-college,0.2602042685174544,15,false,high,true,true,true,false,2.4576510224957078,D
+18,female,african-american,bachelors,18.89500160420424,22,true,moderate,false,false,false,false,1.2267412857712765,F
 18,female,asian,some-college,9.784324973761812,15,false,low,false,false,false,true,1.5904330983565391,F
 15,female,caucasian,some-college,6.838689871494532,28,false,low,true,false,false,false,0.3106695325979863,F
 16,female,african-american,high-school,18.484368696853203,11,true,high,true,false,false,false,2.7718106588704914,C
@@ -619,8 +619,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,higher,13.045280118875404,17,false,none,false,false,false,false,0.9893299205987556,F
 17,female,african-american,higher,14.54262393763855,15,false,high,true,false,true,false,2.230253521333785,D
 17,female,caucasian,high-school,0.0143371741315956,19,false,high,true,false,false,false,1.3835280778946648,F
-18,male,caucasian,high-school,18.737068601820305,15,false,low,true,true,false,false,2.131405262981078,D
-16,male,caucasian,bachelors,3.290507447856248,12,false,low,true,false,true,false,1.8682769229981595,F
+18,male,caucasian,high-school,18.737068601820305,15,false,low,true,true,false,false,2.1314052629810774,D
+16,male,caucasian,bachelors,3.290507447856248,12,false,low,true,false,true,false,1.86827692299816,F
 17,female,african-american,higher,4.671608684447184,25,false,high,true,false,true,false,1.2474819436382791,F
 16,female,caucasian,some-college,5.269468913876965,28,false,very high,false,false,false,false,0.2999075475985059,F
 15,male,asian,high-school,0.7564027310407062,8,false,high,true,false,false,true,2.7051956947945466,C
@@ -629,9 +629,9 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,asian,high-school,6.304334747545721,8,false,high,false,false,false,false,2.150546165993222,D
 17,female,caucasian,some-college,2.306021806780987,12,false,low,false,false,false,false,1.448741241526555,F
 17,female,caucasian,none,2.1398252234924664,28,false,low,true,false,true,false,0.0,F
-15,female,african-american,none,14.389199353399436,3,true,low,false,false,false,false,3.0917150283564836,B
+15,female,african-american,none,14.389199353399436,3,true,low,false,false,false,false,3.091715028356484,B
 18,female,caucasian,high-school,17.091373280652817,8,false,moderate,false,false,false,false,2.576927695452172,C
-15,male,caucasian,high-school,5.1390459901693974,14,false,moderate,false,false,false,false,1.9558725265628372,F
+15,male,caucasian,high-school,5.139045990169397,14,false,moderate,false,false,false,false,1.9558725265628367,F
 15,male,caucasian,high-school,0.4181902467046994,13,false,high,false,true,false,false,1.8787083443226635,F
 16,male,other,some-college,4.461800368907117,18,true,high,true,true,false,false,1.6304001316060543,F
 16,male,african-american,high-school,1.130313815935147,11,false,very high,false,false,true,false,2.372748110360667,D
@@ -640,7 +640,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,higher,4.598367417232652,24,true,moderate,false,true,true,true,1.2783470336697191,F
 18,female,caucasian,some-college,10.318917570508468,5,false,moderate,false,true,false,false,2.6559935659147995,C
 16,male,asian,some-college,5.069875065143807,2,false,none,true,false,true,false,2.6823160526270176,C
-16,male,caucasian,some-college,18.810746022058954,25,false,very high,false,true,false,false,1.6448199394832874,F
+16,male,caucasian,some-college,18.810746022058957,25,false,very high,false,true,false,false,1.6448199394832874,F
 18,female,caucasian,higher,18.11887935852529,24,true,none,true,true,false,false,1.3962784383778892,F
 15,male,caucasian,high-school,11.33612210020932,21,true,moderate,true,false,false,false,1.6094867987939343,F
 18,male,caucasian,some-college,7.088479839747723,19,false,moderate,true,false,true,false,1.187367524649196,F
@@ -649,7 +649,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,african-american,none,14.55158644269888,19,false,moderate,false,false,false,false,1.2477251942052905,F
 18,male,caucasian,some-college,9.03277991037676,23,false,low,false,false,true,false,0.8526823634027514,F
 15,female,other,none,17.13459893011795,22,false,low,false,false,false,false,0.9657009889491656,F
-17,male,caucasian,some-college,18.88189571860729,16,true,very high,true,true,false,false,2.4238007516398317,D
+17,male,caucasian,some-college,18.88189571860729,16,true,very high,true,true,false,false,2.423800751639832,D
 18,male,caucasian,some-college,6.718923067578677,15,false,low,true,false,false,false,1.7419681672894356,F
 17,female,asian,high-school,11.213889627513602,5,false,low,false,false,true,false,2.8459257757426046,C
 15,male,asian,bachelors,1.9011307366512888,7,false,moderate,false,false,false,false,2.039564398044963,D
@@ -657,8 +657,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,bachelors,8.269315334203203,29,true,moderate,false,false,true,false,0.7307796023629439,F
 17,male,caucasian,some-college,4.1240543180355775,24,false,high,true,false,false,false,0.4999877783931601,F
 17,female,caucasian,high-school,17.53120981577435,25,true,high,false,false,false,false,1.122889381075435,F
-18,female,caucasian,high-school,3.1657251211819615,1,true,high,false,true,false,false,2.9594927281039074,C
-16,male,caucasian,higher,9.11321643106184,13,false,low,true,true,true,false,2.3002052395759676,D
+18,female,caucasian,high-school,3.165725121181961,1,true,high,false,true,false,false,2.9594927281039074,C
+16,male,caucasian,higher,9.11321643106184,13,false,low,true,true,true,false,2.300205239575968,D
 18,female,caucasian,none,12.113984809197513,21,false,moderate,false,true,false,false,1.35272076359225,F
 17,female,caucasian,high-school,13.837278163216888,11,true,none,true,false,false,false,2.13406203808262,D
 15,male,african-american,high-school,7.661387394530134,16,false,none,true,false,false,true,1.2997943203369946,F
@@ -670,7 +670,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,high-school,16.414716816314606,12,false,high,true,true,false,false,2.6148839418291825,C
 17,female,caucasian,some-college,12.29082036442631,20,true,none,true,true,true,false,1.8102707442887624,F
 15,female,african-american,some-college,16.643249074582368,16,false,moderate,true,false,false,false,1.581931480635446,F
-16,female,african-american,high-school,9.880233411986111,7,false,low,false,true,false,false,2.2713328033020876,D
+16,female,african-american,high-school,9.880233411986111,7,false,low,false,true,false,false,2.271332803302088,D
 16,female,african-american,high-school,2.369234101889637,0,true,moderate,true,false,false,false,3.363670491095614,B
 16,female,caucasian,high-school,0.2727969167176214,28,false,low,true,true,false,false,0.4812984804652508,F
 18,male,caucasian,higher,6.064390934371824,24,false,none,true,true,false,false,0.1999273794512188,F
@@ -682,13 +682,13 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,high-school,8.210455687028556,1,false,moderate,true,false,false,true,2.898261817162794,C
 15,male,caucasian,some-college,4.62697426400301,14,false,high,false,false,false,true,1.7303180027913696,F
 17,male,african-american,some-college,2.7274221005891675,0,true,none,true,false,true,false,3.560791672128213,A
-18,female,asian,bachelors,3.9337711646242624,8,true,high,false,true,false,false,2.5287745744068277,C
+18,female,asian,bachelors,3.9337711646242624,8,true,high,false,true,false,false,2.528774574406828,C
 15,female,other,bachelors,1.106647743266922,15,true,moderate,false,true,false,false,1.5923878582033109,F
 16,male,caucasian,high-school,3.962614836471541,3,false,low,false,false,true,true,2.3741309720150148,D
-16,male,caucasian,some-college,0.1840179525075891,11,true,none,true,false,false,false,1.8104094800411432,F
+16,male,caucasian,some-college,0.1840179525075891,11,true,none,true,false,false,false,1.8104094800411437,F
 15,male,other,high-school,12.545168012719564,0,false,low,false,false,false,false,2.829826431301572,C
 17,male,asian,none,6.327508147753658,0,true,moderate,false,false,false,true,3.0476020888188065,B
-16,male,asian,some-college,19.462894228538172,6,true,high,true,true,false,false,3.625921730346796,A
+16,male,asian,some-college,19.46289422853817,6,true,high,true,true,false,false,3.625921730346796,A
 16,female,caucasian,none,3.874341015525957,17,false,moderate,false,false,false,true,0.9273215453238872,F
 16,male,african-american,some-college,6.916571406191878,22,false,moderate,true,false,false,false,1.331958948764275,F
 15,female,asian,high-school,7.156823172830665,27,false,very high,true,true,false,true,0.7795517215186132,F
@@ -708,8 +708,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,high-school,10.9924460221207,28,false,high,false,false,false,false,0.4059048314284253,F
 18,male,caucasian,some-college,17.75635280671638,23,false,moderate,true,false,false,false,1.123926327741214,F
 18,male,caucasian,some-college,2.093212678157925,23,false,high,false,false,false,false,0.8703304110318186,F
-18,male,asian,high-school,16.452958543877788,19,false,moderate,true,true,false,false,1.8228292080685775,F
-17,male,other,some-college,4.200946745841392,12,false,high,true,false,false,false,2.2311829319462495,D
+18,male,asian,high-school,16.452958543877788,19,false,moderate,true,true,false,false,1.8228292080685773,F
+17,male,other,some-college,4.200946745841392,12,false,high,true,false,false,false,2.231182931946249,D
 16,female,caucasian,high-school,7.881672970200637,23,false,low,false,true,true,false,0.9669677174911444,F
 15,female,caucasian,some-college,6.332048696548258,19,false,very high,false,true,false,false,1.69185894616234,F
 18,male,caucasian,bachelors,8.00310545730798,14,false,high,false,false,false,false,2.0697582058612616,D
@@ -729,7 +729,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,bachelors,16.06266177872492,14,false,high,false,false,false,false,2.330783482945125,D
 15,female,caucasian,bachelors,0.8829112417491092,25,false,none,true,true,true,false,0.318850908518507,F
 18,male,caucasian,some-college,19.8418437405764,19,false,very high,false,false,false,false,1.7922893205354298,F
-17,female,caucasian,high-school,2.6070335942958356,9,false,high,false,true,false,false,2.573219136505813,C
+17,female,caucasian,high-school,2.607033594295836,9,false,high,false,true,false,false,2.573219136505813,C
 15,male,caucasian,some-college,15.921370507938748,27,false,moderate,false,true,false,false,1.0844901258226167,F
 15,male,asian,bachelors,7.895506335433657,23,false,moderate,true,true,false,true,1.0866966802818123,F
 18,female,african-american,some-college,9.844323665749338,19,false,moderate,false,false,true,true,1.00411266268769,F
@@ -745,7 +745,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,african-american,none,8.219212160718065,12,false,none,false,false,false,false,1.5377839093207275,F
 17,female,asian,some-college,12.95674077216453,17,false,high,false,true,false,false,2.0634635075132985,D
 16,female,asian,high-school,14.24143984495861,16,false,moderate,true,false,false,false,1.878547509948441,F
-17,male,african-american,some-college,3.5690134819674957,26,false,high,true,true,false,true,0.8632708590471806,F
+17,male,african-american,some-college,3.569013481967496,26,false,high,true,true,false,true,0.8632708590471806,F
 17,male,caucasian,high-school,1.591762947440849,5,false,high,false,false,false,false,2.513286133011632,C
 15,female,caucasian,some-college,18.807940678910885,9,false,high,true,true,false,true,2.7721632696203784,C
 16,male,other,some-college,5.213327651242034,1,true,moderate,false,false,false,false,2.8883859357893624,C
@@ -753,12 +753,12 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,african-american,high-school,17.269829009256366,5,false,none,false,false,false,false,2.3706116146947664,D
 16,male,caucasian,high-school,15.450451835250888,27,false,high,false,false,true,false,0.8544646477713151,F
 16,female,caucasian,bachelors,3.3766721330514016,27,true,none,false,false,false,false,0.3226418269944476,F
-16,female,asian,some-college,16.436029185084006,20,false,moderate,true,true,false,false,1.8342269970893037,F
-16,male,african-american,some-college,15.385011184831734,12,false,low,false,false,false,false,1.9900604524480012,F
+16,female,asian,some-college,16.436029185084006,20,false,moderate,true,true,false,false,1.834226997089304,F
+16,male,african-american,some-college,15.385011184831734,12,false,low,false,false,false,false,1.9900604524480008,F
 16,male,asian,high-school,11.934459802124342,17,true,high,false,true,false,false,2.226983393791037,D
 17,male,caucasian,some-college,6.744040703379055,6,false,moderate,false,false,false,true,2.60838689826964,C
 15,male,african-american,bachelors,5.250172085330882,1,false,high,true,false,false,false,3.4063390822727126,B
-17,female,caucasian,bachelors,2.4377842416071793,28,true,high,true,false,false,false,0.8670343739276987,F
+17,female,caucasian,bachelors,2.4377842416071798,28,true,high,true,false,false,false,0.8670343739276987,F
 18,female,asian,some-college,10.195141338017429,13,true,high,false,true,false,false,2.166091325158555,D
 16,male,caucasian,none,11.705217510196931,4,false,low,false,true,false,false,2.4229283329107885,D
 15,male,caucasian,high-school,7.186779810315745,17,false,high,false,true,false,false,1.509557877776469,F
@@ -766,8 +766,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,other,high-school,7.270289147385334,9,false,none,false,false,false,false,2.0038283786309425,D
 17,male,caucasian,high-school,12.820121146414024,10,true,low,false,true,false,false,2.465306489467062,D
 15,female,asian,high-school,18.025184155931267,26,false,low,true,false,true,false,0.8447920018716684,F
-18,male,caucasian,high-school,3.2784052409388975,1,false,none,false,true,false,false,2.731058898448731,C
-18,female,caucasian,bachelors,7.6281761980624685,14,false,moderate,false,false,false,false,1.736011489374202,F
+18,male,caucasian,high-school,3.278405240938897,1,false,none,false,true,false,false,2.731058898448731,C
+18,female,caucasian,bachelors,7.628176198062468,14,false,moderate,false,false,false,false,1.736011489374202,F
 15,male,caucasian,some-college,2.8173720790172263,6,true,none,false,true,false,false,2.5896707308558047,C
 15,female,caucasian,bachelors,12.49887540815664,8,true,moderate,true,false,false,false,2.7423611231016096,C
 15,male,african-american,some-college,14.577410189771916,4,false,low,false,false,false,false,2.4959194397063627,D
@@ -780,7 +780,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,high-school,17.875483755238896,21,true,none,false,false,false,false,1.2173352280449594,F
 17,male,caucasian,high-school,10.596181141401082,22,false,none,true,false,false,false,0.7626843112270509,F
 15,male,caucasian,bachelors,13.38696701525592,18,false,very high,false,true,true,false,2.145848670885439,D
-17,female,caucasian,none,16.63147851820905,3,true,high,false,false,false,false,3.2991310018333437,B
+17,female,caucasian,none,16.63147851820905,3,true,high,false,false,false,false,3.299131001833344,B
 18,male,caucasian,some-college,3.006212449679375,23,false,high,true,false,true,false,1.1708122846030742,F
 18,female,caucasian,some-college,0.7718312387626769,19,false,very high,false,false,false,true,1.4245956528715278,F
 16,female,african-american,bachelors,17.577622918257042,6,false,very high,false,false,false,false,2.9026593668557465,C
@@ -796,11 +796,11 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,bachelors,19.653048229871384,13,false,moderate,true,true,false,false,2.797267479731933,C
 17,female,caucasian,some-college,12.740951070072551,14,false,low,false,false,false,false,1.7174586153875433,F
 15,female,asian,none,3.232753875691836,13,false,moderate,false,true,false,false,1.6879004923340846,F
-17,female,asian,high-school,18.116987799986116,6,false,moderate,true,false,false,false,2.95214586347002,C
+17,female,asian,high-school,18.11698779998612,6,false,moderate,true,false,false,false,2.95214586347002,C
 15,female,caucasian,bachelors,10.32495646400121,24,false,moderate,true,false,false,false,0.9633750092514732,F
-17,female,other,some-college,3.074986242058362,2,false,moderate,true,false,false,false,3.3349718279859153,B
+17,female,other,some-college,3.074986242058362,2,false,moderate,true,false,false,false,3.3349718279859157,B
 15,male,other,some-college,18.434533389033227,29,false,low,false,false,false,false,0.4436406552124723,F
-16,male,caucasian,none,15.14938101446206,16,true,moderate,true,false,false,false,1.9557917388354116,F
+16,male,caucasian,none,15.14938101446206,16,true,moderate,true,false,false,false,1.955791738835412,F
 15,female,caucasian,some-college,14.63410545446303,9,false,high,true,true,false,false,2.850351339225344,C
 15,female,african-american,some-college,14.183614075888094,14,true,moderate,false,true,false,false,2.370067422230533,D
 16,female,other,bachelors,4.006796421928847,28,true,moderate,false,false,false,false,0.1525907792336783,F
@@ -808,14 +808,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,high-school,13.7658599685451,27,true,low,true,false,true,true,0.9220132315429356,F
 15,female,caucasian,some-college,4.394455002207938,16,false,moderate,false,false,false,true,1.42899323811113,F
 16,male,african-american,none,8.773433936060977,16,true,moderate,false,true,false,false,1.8934409155419147,F
-15,male,african-american,higher,15.640036511878828,13,true,moderate,false,false,false,false,1.93958466603405,F
+15,male,african-american,higher,15.640036511878828,13,true,moderate,false,false,false,false,1.9395846660340497,F
 17,female,caucasian,high-school,15.679050361956818,23,false,high,true,true,false,false,1.511276997165948,F
 17,male,asian,some-college,9.065235450517193,24,false,low,false,false,true,false,0.8256041743927887,F
 15,male,african-american,high-school,15.843798765504902,17,false,none,true,false,false,false,1.7643543086537177,F
 18,female,asian,some-college,16.772435923961137,24,false,moderate,true,false,false,false,1.295594900495879,F
 18,male,asian,some-college,13.095515025685206,4,false,moderate,false,false,false,false,2.4737171780781475,D
 15,male,asian,some-college,4.568517046168403,28,false,moderate,false,false,true,false,0.0197984850174091,F
-15,female,caucasian,high-school,5.48023560771095,7,false,high,false,false,false,false,2.2029585057112775,D
+15,female,caucasian,high-school,5.48023560771095,7,false,high,false,false,false,false,2.202958505711277,D
 17,male,african-american,high-school,6.296823108174707,6,false,high,true,false,false,false,3.0400254359810663,B
 18,male,caucasian,high-school,2.33608215467904,22,true,low,true,false,false,false,1.0690799865648395,F
 15,female,african-american,some-college,5.463192407398902,3,true,very high,true,false,false,false,3.9417600224442615,A
@@ -825,18 +825,18 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,bachelors,2.0896063350791616,13,false,high,false,false,false,false,1.7875223290156508,F
 18,male,caucasian,some-college,14.405358478947912,26,true,low,true,false,false,true,1.1003818825946587,F
 18,female,caucasian,some-college,13.745660088262554,26,false,moderate,false,false,false,false,0.8545582885805375,F
-17,male,asian,none,1.9150839732671532,18,false,moderate,false,true,false,true,1.199651387587034,F
+17,male,asian,none,1.9150839732671527,18,false,moderate,false,true,false,true,1.199651387587034,F
 16,female,asian,some-college,18.451448098116,13,true,low,false,false,false,false,2.591940919144186,C
 17,female,african-american,bachelors,11.369444043136392,8,true,none,false,false,false,true,2.28221274517396,D
-18,female,caucasian,high-school,7.274510422713685,5,false,moderate,false,false,false,false,2.7548774932704316,C
-15,female,caucasian,some-college,15.130771669906132,16,false,moderate,false,true,false,false,1.9212686469167612,F
+18,female,caucasian,high-school,7.274510422713685,5,false,moderate,false,false,false,false,2.754877493270432,C
+15,female,caucasian,some-college,15.130771669906132,16,false,moderate,false,true,false,false,1.9212686469167608,F
 15,male,caucasian,bachelors,5.147309168032681,18,false,high,true,false,true,false,1.5835564956915291,F
 17,female,caucasian,bachelors,13.870196740926408,11,false,low,false,false,true,false,1.7233856864018513,F
 18,female,asian,high-school,0.7942241514449444,3,true,high,true,false,false,false,2.8760550053652034,C
 15,male,caucasian,some-college,16.78816075218544,15,false,low,false,false,false,false,1.8889919304287464,F
 18,female,caucasian,high-school,8.96341694042637,24,false,high,true,true,false,false,1.369369967422703,F
-17,male,caucasian,high-school,12.733858287158837,10,true,moderate,false,false,false,false,2.5505462336959117,C
-15,female,caucasian,bachelors,4.424756396133674,21,true,moderate,true,true,true,true,1.9435733405447095,F
+17,male,caucasian,high-school,12.733858287158837,10,true,moderate,false,false,false,false,2.550546233695912,C
+15,female,caucasian,bachelors,4.424756396133674,21,true,moderate,true,true,true,true,1.943573340544709,F
 18,female,african-american,bachelors,13.54147425316896,3,true,high,true,false,false,true,3.3104012689001965,B
 15,female,african-american,some-college,15.444805517865532,16,false,low,false,false,false,false,1.418938674503826,F
 17,male,caucasian,none,9.464263737687975,7,false,low,false,true,false,false,2.3530546550379574,D
@@ -856,14 +856,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,african-american,none,7.069549502567575,9,false,high,true,false,false,false,2.251753921949751,D
 15,male,caucasian,none,12.844192740053948,25,true,low,false,false,false,false,0.9000416924553322,F
 17,male,asian,some-college,4.912631480976291,26,false,very high,false,false,false,false,0.6566169233161951,F
-17,male,african-american,bachelors,2.1855889073631984,7,false,high,true,false,false,false,2.1864269513348455,D
+17,male,african-american,bachelors,2.1855889073631984,7,false,high,true,false,false,false,2.186426951334845,D
 16,male,african-american,high-school,15.887684501857128,6,true,low,false,false,true,true,2.88313626573597,C
 17,male,caucasian,high-school,1.9793724681741365,7,true,high,true,false,false,false,2.877853697636979,C
 18,male,african-american,some-college,5.427627901591691,27,false,moderate,false,false,false,false,0.0120634896338959,F
 15,male,caucasian,high-school,17.1021884399488,7,false,low,true,false,false,false,2.583738162772638,C
 16,female,caucasian,none,6.929385741573344,22,false,low,false,true,false,false,1.1615545310949262,F
 16,female,caucasian,some-college,19.46090699028322,1,false,none,true,false,false,false,3.301690512687678,B
-18,female,african-american,some-college,19.594686695477193,26,true,high,false,false,false,false,1.5051727733314488,F
+18,female,african-american,some-college,19.594686695477197,26,true,high,false,false,false,false,1.5051727733314488,F
 15,female,caucasian,some-college,5.365520409071134,15,false,moderate,false,false,false,false,1.385696220554564,F
 15,male,caucasian,some-college,0.819564444997809,8,false,moderate,false,false,false,true,2.240923948684623,D
 16,male,asian,some-college,14.101265684107585,12,true,low,true,false,false,false,2.116723382234456,D
@@ -885,7 +885,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,asian,bachelors,11.03657467068337,4,false,moderate,true,false,false,false,2.871904770418778,C
 18,male,asian,none,12.635496873055107,0,true,moderate,false,false,false,false,3.7079480402167513,A
 15,female,caucasian,some-college,5.14237007997389,19,false,moderate,false,false,true,false,1.1748680910745393,F
-15,female,caucasian,bachelors,18.973081618059812,29,true,low,true,false,false,false,0.9954496418804064,F
+15,female,caucasian,bachelors,18.97308161805981,29,true,low,true,false,false,false,0.9954496418804064,F
 16,female,asian,high-school,3.395169964142717,12,true,very high,false,true,false,false,2.5287112567899213,C
 18,female,caucasian,some-college,19.313063495328247,7,false,none,true,true,false,false,2.5968344902614566,C
 15,male,caucasian,high-school,0.2971224501500757,5,false,high,false,false,false,false,2.46060677377515,D
@@ -893,7 +893,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,asian,none,6.667356762331256,16,false,moderate,false,true,false,false,1.803054426736249,F
 15,male,caucasian,some-college,8.982468278605015,11,true,low,false,false,false,false,2.309975847769393,D
 15,female,caucasian,high-school,11.41329157961578,0,false,low,false,false,false,false,3.0933639433242823,B
-18,female,caucasian,some-college,8.71178316025418,2,false,low,false,false,false,false,2.6159007236869956,C
+18,female,caucasian,some-college,8.71178316025418,2,false,low,false,false,false,false,2.615900723686996,C
 18,female,asian,high-school,8.2969370060319,13,false,moderate,false,true,false,false,2.27691831821056,D
 16,female,other,high-school,14.65446830826613,25,false,moderate,true,false,false,false,1.0515315263472127,F
 18,female,caucasian,some-college,13.717525501729291,7,false,low,false,true,false,false,2.747706159044371,C
@@ -909,7 +909,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,asian,high-school,2.1102729280240218,3,false,high,false,false,false,false,2.356856806870208,D
 17,female,caucasian,some-college,13.661391503802482,24,false,low,false,false,false,false,0.8456248398851254,F
 16,female,other,some-college,13.21454786218303,15,true,moderate,true,false,true,false,2.246545273169087,D
-17,male,african-american,some-college,19.012127431597456,12,false,low,true,true,false,false,2.4786991828290517,D
+17,male,african-american,some-college,19.012127431597456,12,false,low,true,true,false,false,2.478699182829052,D
 15,male,caucasian,high-school,14.593568272944824,19,false,low,true,false,true,true,1.3742882826190426,F
 15,female,caucasian,some-college,1.040916775122629,18,true,low,false,true,false,false,1.3553810454285826,F
 16,male,caucasian,some-college,17.684903478579084,4,false,high,true,false,false,false,3.060490750087925,B
@@ -918,7 +918,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,high-school,11.717261010558431,19,false,low,false,true,false,false,1.150153548429549,F
 18,female,caucasian,high-school,19.521566649450374,23,false,moderate,false,false,true,true,1.3214293024924364,F
 18,male,asian,some-college,10.646087276963325,3,true,moderate,true,true,false,false,3.4913265883378144,B
-18,male,african-american,high-school,18.106436567521797,1,false,moderate,false,false,true,true,3.8695867242043698,A
+18,male,african-american,high-school,18.1064365675218,1,false,moderate,false,false,true,true,3.869586724204369,A
 15,male,asian,bachelors,1.6607751562037287,25,true,none,false,false,false,true,0.1704636132529806,F
 17,male,caucasian,high-school,3.821037374173657,12,true,very high,false,false,false,false,2.197387290025697,D
 15,male,caucasian,bachelors,8.815098868826357,29,false,moderate,false,false,false,false,0.0211555827545139,F
@@ -929,27 +929,27 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,asian,higher,0.9483127228016984,16,true,high,false,true,true,false,1.8044174585321688,F
 16,female,african-american,some-college,16.023430065906496,4,true,moderate,true,true,false,false,3.262269864334146,B
 15,female,caucasian,bachelors,12.087614381656165,24,false,high,false,true,false,false,1.169658238097338,F
-17,male,asian,some-college,3.9708571773640338,17,false,high,false,false,false,false,1.4015509339508203,F
+17,male,asian,some-college,3.970857177364033,17,false,high,false,false,false,false,1.4015509339508203,F
 18,female,african-american,high-school,9.896569132428404,27,false,high,false,false,true,false,0.5496018253589585,F
 15,male,asian,high-school,14.846204910674489,22,true,high,false,false,false,false,1.5165082679194366,F
 15,female,asian,high-school,15.408235741372875,20,true,high,false,false,false,false,2.0322195117185347,D
 18,male,asian,none,9.99236823997524,17,true,high,true,true,false,false,2.289299775238682,D
 15,male,african-american,high-school,6.104290602577183,7,false,moderate,true,false,false,false,2.086687740995232,D
 16,female,caucasian,high-school,19.47485164076987,26,true,high,true,false,false,true,1.6676669904535018,F
-15,female,african-american,some-college,13.267252219129857,14,true,high,false,false,false,false,2.5958890506964156,C
+15,female,african-american,some-college,13.267252219129857,14,true,high,false,false,false,false,2.595889050696416,C
 16,male,african-american,some-college,8.164750386925974,12,false,moderate,false,false,false,false,1.9507691766596456,F
 16,female,asian,high-school,5.609264484093048,12,false,very high,false,false,false,false,2.1025418985543585,D
 18,female,caucasian,high-school,14.622059660071242,15,true,none,false,false,false,false,1.3791671997209602,F
 15,female,caucasian,some-college,4.843668911875354,21,false,moderate,false,false,false,false,0.6721996800613397,F
-18,male,asian,high-school,3.4341997794737633,19,false,low,true,false,true,false,1.1416385674703,F
+18,male,asian,high-school,3.4341997794737638,19,false,low,true,false,true,false,1.1416385674703,F
 15,male,asian,none,10.596677779241404,12,false,low,false,false,false,true,1.6210121147431664,F
 15,female,other,high-school,5.799747852882837,19,false,high,false,false,false,true,1.1221109734183077,F
 17,female,asian,bachelors,12.5781028984723,1,false,very high,false,false,false,false,3.402044108383005,B
 15,female,african-american,bachelors,2.3587734974846697,2,false,high,false,false,false,false,2.683854738684956,C
-18,male,african-american,high-school,13.098822091346433,14,true,very high,true,false,true,false,2.9968562787082313,C
+18,male,african-american,high-school,13.098822091346433,14,true,very high,true,false,true,false,2.996856278708232,C
 16,male,asian,some-college,5.665930559954044,22,true,low,true,true,false,false,1.2848657108072905,F
 15,female,african-american,some-college,0.0048586886902546,18,true,low,false,false,false,false,1.2010533026138683,F
-17,female,african-american,some-college,2.538721153483527,12,false,moderate,false,true,false,false,1.978021718438136,F
+17,female,african-american,some-college,2.5387211534835274,12,false,moderate,false,true,false,false,1.978021718438136,F
 18,female,caucasian,some-college,18.67230755670188,4,true,high,true,true,false,true,3.836698640240594,A
 15,female,caucasian,some-college,17.347092782307158,25,true,none,true,true,false,false,1.1799034066853449,F
 18,female,asian,high-school,4.672180640724736,21,false,very high,true,false,false,false,1.5400594595413652,F
@@ -961,21 +961,21 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,higher,1.2707144484783717,22,false,high,false,true,false,false,0.8411087173537893,F
 15,male,other,high-school,7.924946936328119,6,false,low,false,true,false,false,2.397182557625913,D
 15,male,african-american,some-college,19.27635322376361,3,true,very high,false,false,false,false,3.576909015459067,A
-16,male,caucasian,some-college,10.779617489002412,1,false,high,true,false,true,false,3.225158275189163,B
+16,male,caucasian,some-college,10.779617489002412,1,false,high,true,false,true,false,3.2251582751891634,B
 17,male,caucasian,higher,5.757590066696892,26,false,none,false,false,false,false,0.0,F
 17,female,african-american,higher,2.405419262572137,6,true,low,false,false,true,false,2.8066977641918256,C
 15,male,caucasian,some-college,14.070566803630609,2,true,moderate,true,false,false,false,3.421837670026282,B
-15,female,asian,high-school,12.897120868594536,14,false,moderate,false,true,false,true,2.1053092787971113,D
+15,female,asian,high-school,12.897120868594536,14,false,moderate,false,true,false,true,2.1053092787971117,D
 16,male,african-american,some-college,7.478774272075492,0,false,high,false,false,false,false,3.1609020911559265,B
 16,female,asian,high-school,19.018827037316687,1,false,none,false,false,false,false,2.993541560404552,C
 17,female,caucasian,some-college,0.4440562597570063,9,true,high,true,false,false,false,2.490220425623977,D
-18,female,african-american,bachelors,6.074477032636516,15,false,high,true,false,true,false,2.1308327796408113,D
+18,female,african-american,bachelors,6.074477032636516,15,false,high,true,false,true,false,2.1308327796408117,D
 17,female,caucasian,high-school,18.421389725991627,24,false,low,true,false,false,true,0.8384648733197381,F
 15,female,other,some-college,6.418708766388807,27,false,moderate,true,false,true,false,0.6767710334068527,F
 17,female,african-american,some-college,5.045056677103408,14,true,low,true,false,false,false,1.7359565115853166,F
 18,male,caucasian,some-college,10.684408198624949,23,true,low,true,false,false,false,1.254572618142762,F
 16,female,caucasian,high-school,16.476034998410757,14,true,moderate,false,false,false,false,1.9226882349760128,F
-18,male,caucasian,some-college,2.062935217567221,13,false,very high,true,false,false,false,2.1919984196063775,D
+18,male,caucasian,some-college,2.062935217567221,13,false,very high,true,false,false,false,2.191998419606377,D
 18,male,african-american,bachelors,18.860414192914725,21,true,low,false,true,true,false,1.757523486205053,F
 18,female,caucasian,bachelors,15.90145762362328,13,false,moderate,true,false,false,false,1.9241023198927736,F
 16,male,african-american,high-school,3.625005111031039,5,false,low,true,false,false,false,2.8079741296204626,C
@@ -987,8 +987,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,bachelors,2.5331174569438786,29,false,none,false,true,false,false,0.1152432109582913,F
 18,female,caucasian,some-college,8.412604737576387,16,false,high,false,true,false,false,1.562359564441758,F
 18,female,african-american,some-college,9.61883216168607,15,false,high,true,false,false,false,2.096032624938282,D
-16,male,caucasian,high-school,7.526236339099952,7,true,moderate,false,true,false,false,3.0092383227043036,B
-18,female,caucasian,some-college,7.2637824743245005,6,false,low,false,false,false,false,2.071108064884564,D
+16,male,caucasian,high-school,7.526236339099952,7,true,moderate,false,true,false,false,3.009238322704304,B
+18,female,caucasian,some-college,7.2637824743245,6,false,low,false,false,false,false,2.071108064884564,D
 16,male,caucasian,none,1.0453733512319308,19,true,moderate,false,false,true,false,1.7473564518959883,F
 18,male,caucasian,high-school,13.710772411252464,27,false,high,true,true,false,false,1.0798673690024294,F
 16,male,caucasian,some-college,8.724288342400907,11,false,high,false,false,true,false,2.271400211003181,D
@@ -1007,14 +1007,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,asian,high-school,3.058863729508523,19,false,moderate,false,false,true,true,1.0707079518820537,F
 18,female,caucasian,high-school,1.3798001742091892,22,false,moderate,false,false,false,true,0.8327175057955102,F
 15,female,african-american,some-college,19.916047355598373,1,false,moderate,false,false,false,false,3.1302227945215697,B
-18,female,caucasian,higher,5.776199399081792,7,false,high,true,false,false,false,2.5370989505724477,C
-18,female,caucasian,bachelors,2.9853602533849455,12,false,moderate,true,false,false,false,1.671076181781797,F
+18,female,caucasian,higher,5.776199399081792,7,false,high,true,false,false,false,2.537098950572448,C
+18,female,caucasian,bachelors,2.985360253384945,12,false,moderate,true,false,false,false,1.671076181781797,F
 15,female,other,some-college,4.819925159918359,22,false,low,false,true,true,false,0.8165506596743497,F
-15,female,caucasian,some-college,18.722511430802697,24,false,high,false,true,false,false,1.1314027355141834,F
+15,female,caucasian,some-college,18.72251143080269,24,false,high,false,true,false,false,1.1314027355141834,F
 16,male,asian,high-school,10.403204460487911,29,false,high,false,false,false,false,0.3331542282930413,F
 17,male,asian,higher,7.296361926157138,21,true,moderate,false,false,false,false,1.4890630202510051,F
 15,female,asian,higher,17.467829158184387,19,true,low,false,true,false,false,1.6833300315712254,F
-16,female,other,high-school,7.899805410980649,21,true,very high,true,false,false,false,1.9219421337361215,F
+16,female,other,high-school,7.899805410980649,21,true,very high,true,false,false,false,1.921942133736121,F
 16,female,caucasian,high-school,6.700171399153916,14,false,high,false,false,false,false,1.9400069221827017,F
 17,male,caucasian,high-school,4.145650450994712,19,false,low,true,false,false,false,1.0658486732058416,F
 18,female,caucasian,high-school,7.555936478188229,22,true,none,false,false,false,false,0.9689861311254953,F
@@ -1026,16 +1026,16 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,some-college,3.8257831339302872,13,false,high,false,false,false,false,1.5784416654580549,F
 16,female,african-american,some-college,8.148105432226975,16,false,moderate,true,false,true,false,1.8860081741258312,F
 16,female,caucasian,high-school,18.738985078173908,12,true,moderate,false,true,false,false,2.366010872187284,D
-17,male,caucasian,higher,7.5450397143139085,18,true,very high,true,false,true,false,2.434934378846439,D
+17,male,caucasian,higher,7.545039714313908,18,true,very high,true,false,true,false,2.434934378846439,D
 15,male,asian,bachelors,13.281482423996682,29,false,low,false,false,false,false,0.3931864713624303,F
 15,male,african-american,high-school,5.101744448427963,22,false,low,false,true,true,false,0.7132676650608875,F
 17,male,asian,none,2.5406715194646345,14,true,high,false,true,true,false,2.574449970243328,C
 18,male,caucasian,none,1.1707320016010023,26,false,low,true,true,false,false,0.7005398668998437,F
 15,male,asian,high-school,6.1082699708550265,24,true,high,true,false,true,false,1.586289237455222,F
-16,female,african-american,some-college,3.1532205359381593,13,true,none,false,true,false,false,2.058575292693283,D
+16,female,african-american,some-college,3.1532205359381598,13,true,none,false,true,false,false,2.058575292693283,D
 15,female,african-american,bachelors,3.480208960322484,1,true,low,false,false,false,false,3.1296400506375512,B
 16,male,african-american,some-college,15.215186167739,6,true,very high,true,true,false,false,3.539198711532371,A
-18,female,asian,bachelors,0.3167614188974843,16,false,moderate,true,true,true,false,2.0599666562818197,D
+18,female,asian,bachelors,0.3167614188974843,16,false,moderate,true,true,true,false,2.05996665628182,D
 17,female,african-american,some-college,11.156202514708689,17,false,high,false,true,true,true,1.756035494723187,F
 15,male,african-american,some-college,7.589227611869296,5,false,low,true,true,false,false,2.6226010520500767,C
 17,female,other,some-college,10.130999998170944,26,false,low,false,false,false,false,0.2628611666623931,F
@@ -1051,11 +1051,11 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,african-american,some-college,11.026347813256285,23,false,moderate,true,false,false,false,1.3917877793457225,F
 16,male,caucasian,some-college,7.190862890400069,10,true,moderate,false,false,false,false,2.182795221152233,D
 15,female,other,some-college,2.5160467269210263,14,true,high,true,false,false,false,2.2538711785078176,D
-17,female,other,bachelors,11.78663289895456,12,true,low,true,false,false,false,2.2540200372432713,D
+17,female,other,bachelors,11.78663289895456,12,true,low,true,false,false,false,2.2540200372432717,D
 17,female,african-american,some-college,10.502817035392592,29,false,low,true,false,false,false,0.3925490106038808,F
 15,male,asian,some-college,4.059871183823944,23,false,very high,true,true,false,false,1.484857697467839,F
 15,male,asian,some-college,9.037380893045556,1,false,none,false,false,false,false,2.672093364300088,C
-18,female,african-american,some-college,15.938950080312916,13,false,low,true,false,false,false,1.8315112814407797,F
+18,female,african-american,some-college,15.938950080312916,13,false,low,true,false,false,false,1.83151128144078,F
 17,female,caucasian,high-school,11.808522062157827,23,false,moderate,false,false,true,false,0.7581829737450007,F
 16,female,caucasian,none,1.938346541339897,5,false,high,true,false,false,false,2.9381754672014475,C
 18,male,african-american,none,10.9604299445827,8,true,moderate,true,false,true,false,3.0549241250380565,B
@@ -1101,7 +1101,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,african-american,higher,14.84402018242265,6,false,low,false,true,true,true,3.154023245749205,B
 17,female,asian,some-college,10.194710200078742,14,false,high,true,true,false,true,2.005144712913381,D
 16,female,asian,some-college,8.448915800617582,20,true,moderate,true,false,false,false,1.7207596503292208,F
-18,male,african-american,some-college,7.9617435647246175,5,false,moderate,false,true,false,true,3.1270562240684012,B
+18,male,african-american,some-college,7.9617435647246175,5,false,moderate,false,true,false,true,3.127056224068401,B
 15,male,caucasian,bachelors,0.5289380519533493,15,true,moderate,false,false,false,false,1.441918756451196,F
 16,female,asian,bachelors,6.711144033933143,19,true,high,true,false,false,true,1.6209212385063754,F
 18,male,asian,some-college,19.520403150489884,23,true,high,true,true,false,false,2.1962173498725552,D
@@ -1119,7 +1119,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,some-college,3.787217515837256,2,false,high,false,false,false,false,2.846487468746025,C
 15,female,caucasian,high-school,15.426462864337,19,false,high,true,false,true,true,1.7723554330096858,F
 16,male,caucasian,high-school,16.828795199124894,28,true,moderate,false,false,false,false,0.7975176691622691,F
-16,male,other,none,12.353891723771817,6,true,high,true,true,false,false,3.5209314528229396,A
+16,male,other,none,12.353891723771817,6,true,high,true,true,false,false,3.52093145282294,A
 17,female,asian,some-college,12.888463392596332,17,false,moderate,false,true,false,false,1.5913657381425088,F
 17,female,asian,some-college,0.5667490076676929,11,false,high,true,false,false,false,1.8640736524087984,F
 17,male,other,some-college,16.57060519163017,18,true,high,false,true,false,false,2.4118406224250792,D
@@ -1136,20 +1136,20 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,other,high-school,9.535077510166564,21,false,high,true,true,false,false,1.629355895809393,F
 17,female,asian,some-college,5.413492119305787,24,false,high,false,false,false,false,0.4937411351889655,F
 17,female,other,high-school,0.5834133714814893,1,false,moderate,false,true,true,false,3.204313181292444,B
-16,female,caucasian,higher,12.102032444743012,18,true,very high,false,false,false,false,2.0681117849682034,D
+16,female,caucasian,higher,12.102032444743012,18,true,very high,false,false,false,false,2.068111784968204,D
 18,female,caucasian,high-school,7.914896596947088,8,false,low,true,false,false,true,2.281345006080266,D
 15,female,asian,some-college,5.973443147750994,8,true,low,false,true,false,false,2.4821724081876124,D
 16,female,caucasian,high-school,17.338820856610248,12,false,high,true,false,true,false,2.622179001774681,C
-15,female,caucasian,some-college,14.934866155963196,5,false,high,false,false,true,false,3.3505919788523375,B
+15,female,caucasian,some-college,14.934866155963196,5,false,high,false,false,true,false,3.350591978852337,B
 18,female,caucasian,some-college,17.155310967448845,29,false,moderate,true,false,true,false,0.8411757539950683,F
 17,male,caucasian,some-college,9.89965589424922,14,false,very high,true,false,true,false,2.371982914818465,D
-18,male,caucasian,some-college,2.6186250425355495,18,true,very high,false,true,false,false,1.9225913490306892,F
+18,male,caucasian,some-college,2.618625042535549,18,true,very high,false,true,false,false,1.9225913490306887,F
 16,male,caucasian,bachelors,13.924428722425448,20,false,none,false,false,false,false,1.0075173084456468,F
 17,female,african-american,none,4.121475598743505,14,false,low,true,false,false,false,1.5538733401089513,F
 16,male,caucasian,high-school,8.824593381834337,17,false,high,false,false,false,false,1.2476927957970836,F
 17,female,caucasian,high-school,1.30001577897777,6,false,moderate,true,false,false,false,2.460743527113226,D
 15,female,asian,higher,16.50616804845965,25,false,none,true,false,true,true,0.9633404310113688,F
-15,male,caucasian,high-school,2.5188128209500116,10,false,high,false,false,false,false,2.0836979858728815,D
+15,male,caucasian,high-school,2.518812820950012,10,false,high,false,false,false,false,2.083697985872881,D
 15,female,caucasian,some-college,18.061950140986195,7,true,moderate,false,false,true,false,2.942198841728139,C
 18,male,asian,some-college,17.284612045231142,5,true,moderate,false,false,true,false,3.1794507681007715,B
 16,male,caucasian,high-school,9.291655288784922,7,false,low,true,false,false,false,2.627337296160058,C
@@ -1168,35 +1168,35 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,high-school,3.595956269901508,2,true,none,false,false,false,false,2.6440598613135307,C
 16,female,caucasian,high-school,9.35516461915159,18,false,high,true,false,false,true,1.3974290948962047,F
 17,female,caucasian,some-college,19.36145005819357,14,true,low,false,false,false,false,2.4400605261033226,D
-17,female,asian,some-college,15.059723860783702,3,false,low,false,false,false,false,2.6268192376885873,C
+17,female,asian,some-college,15.059723860783702,3,false,low,false,false,false,false,2.6268192376885877,C
 18,female,caucasian,none,16.223252077582643,24,false,high,true,true,false,false,1.4684288845931317,F
 17,female,caucasian,some-college,0.6565099763848026,8,false,very high,false,false,true,false,2.3806669165758354,D
 17,male,caucasian,high-school,9.3571892526832,12,true,low,true,false,false,false,2.303453349269981,D
 17,female,asian,high-school,12.932422673151107,17,false,high,false,false,false,false,1.5961281034309902,F
 15,male,african-american,some-college,16.600653672561492,20,true,moderate,false,true,false,false,1.6853891464062594,F
 17,male,african-american,bachelors,0.9854730716554294,15,false,high,false,true,false,false,1.8970003503646624,F
-17,female,asian,some-college,17.048777712837463,0,true,moderate,false,false,false,false,3.4967765445807157,B
+17,female,asian,some-college,17.048777712837463,0,true,moderate,false,false,false,false,3.496776544580716,B
 18,female,asian,bachelors,10.968018734838234,3,true,low,false,false,true,false,3.361230858272882,B
-17,male,caucasian,some-college,3.9462794115211985,17,false,low,false,false,false,true,0.8217016697705576,F
+17,male,caucasian,some-college,3.946279411521199,17,false,low,false,false,false,true,0.8217016697705576,F
 17,female,african-american,some-college,6.345104328994,7,true,moderate,false,false,true,true,2.6404761356980795,C
 16,female,asian,some-college,5.638591035031215,19,false,low,false,false,true,false,0.8972169272385859,F
 18,male,other,bachelors,10.617180685769515,15,false,none,false,true,true,false,1.674676218445066,F
 18,male,asian,bachelors,1.0337135982226364,20,false,high,false,true,false,false,0.906353743453148,F
 18,male,caucasian,none,3.1707231699984706,10,true,moderate,false,false,true,false,2.4190289368571505,D
-18,female,caucasian,bachelors,16.253860867515648,19,true,high,true,false,false,false,2.1314470687187597,D
-18,male,caucasian,bachelors,2.6520798149362212,20,false,low,false,false,false,true,1.030802658909541,F
+18,female,caucasian,bachelors,16.253860867515648,19,true,high,true,false,false,false,2.13144706871876,D
+18,male,caucasian,bachelors,2.652079814936221,20,false,low,false,false,false,true,1.030802658909541,F
 18,female,asian,some-college,4.667925389162539,20,true,high,false,false,false,true,1.5095198602197917,F
 15,male,caucasian,high-school,9.067412112083147,20,false,moderate,true,true,true,false,1.7892398367181417,F
 17,male,caucasian,bachelors,10.34241776226661,26,true,none,false,false,false,false,0.5964170171485198,F
 18,male,asian,bachelors,15.272209592283172,18,false,moderate,false,false,false,false,1.4145556778225787,F
 17,female,caucasian,high-school,8.946648533323756,22,false,none,false,true,true,false,1.242176324159397,F
 17,female,asian,higher,15.797292420710775,18,false,high,true,false,false,false,1.9347838118971947,F
-15,male,caucasian,none,12.366926140909149,17,false,high,false,true,false,false,2.3157698749693236,D
+15,male,caucasian,none,12.366926140909149,17,false,high,false,true,false,false,2.315769874969324,D
 18,male,caucasian,high-school,2.261994788476449,18,false,moderate,true,true,false,false,1.8186125604584331,F
-16,male,caucasian,some-college,3.1266287678567717,10,false,low,true,true,true,true,2.3631214597500585,D
+16,male,caucasian,some-college,3.126628767856772,10,false,low,true,true,true,true,2.3631214597500585,D
 15,female,asian,some-college,8.740674508995417,2,false,low,false,false,false,false,2.791339403107066,C
 16,male,caucasian,some-college,7.937787861780792,7,true,moderate,true,false,false,false,2.9545340837691567,C
-17,female,caucasian,none,14.870885392745892,19,false,high,false,false,false,true,1.8128870432088855,F
+17,female,caucasian,none,14.870885392745892,19,false,high,false,false,false,true,1.8128870432088853,F
 17,male,other,higher,11.614742795947038,18,true,low,false,false,false,false,1.1414565556036804,F
 15,male,caucasian,none,7.762661620044986,9,false,none,false,true,false,false,2.295362280360723,D
 15,male,african-american,high-school,3.4152056690077126,15,false,moderate,true,false,false,false,1.6771008018764466,F
@@ -1209,10 +1209,10 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,african-american,some-college,17.05077481711934,6,false,high,false,true,false,false,2.981786874282664,C
 15,male,caucasian,some-college,5.158790135738012,14,true,none,false,false,true,true,1.4152214905212377,F
 15,female,african-american,some-college,9.830284516636532,23,false,low,true,false,false,false,0.9285393441441628,F
-15,male,caucasian,none,19.510546580418037,28,false,moderate,false,false,false,true,0.984031782647104,F
+15,male,caucasian,none,19.51054658041804,28,false,moderate,false,false,false,true,0.984031782647104,F
 18,female,caucasian,some-college,6.664834811014552,20,true,moderate,true,false,false,true,1.382935704905427,F
 16,female,caucasian,some-college,11.900926898475223,19,true,moderate,false,true,false,false,1.8638998217614855,F
-16,male,caucasian,some-college,1.803914004004887,22,false,high,true,true,false,false,1.2284288472926583,F
+16,male,caucasian,some-college,1.8039140040048876,22,false,high,true,true,false,false,1.2284288472926583,F
 16,female,asian,some-college,12.120300049588865,16,false,high,true,false,true,false,2.137393264966037,D
 15,female,caucasian,high-school,1.7926354660923582,5,false,low,true,false,true,false,2.434532444006976,D
 16,male,other,some-college,19.18470870647644,14,false,high,false,false,false,false,2.2564883117007817,D
@@ -1235,7 +1235,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,some-college,7.599199045195051,22,false,very high,false,true,true,false,1.4851118281074416,F
 16,female,caucasian,some-college,8.969704560052676,9,false,moderate,true,true,false,false,2.9994091469264443,C
 18,male,asian,none,19.61296439128099,2,true,none,true,false,false,false,3.515415829646008,A
-15,female,asian,some-college,7.005447413386552,4,false,high,false,false,false,false,2.9181391275529593,C
+15,female,asian,some-college,7.005447413386552,4,false,high,false,false,false,false,2.91813912755296,C
 18,female,african-american,bachelors,9.043658787202158,23,false,very high,true,true,false,false,1.3622335993641654,F
 15,female,asian,bachelors,2.6703110270563912,28,false,high,false,false,false,false,0.205067960146301,F
 17,male,caucasian,none,0.9591546487397528,12,false,high,true,false,true,false,2.2332394663089845,D
@@ -1243,19 +1243,19 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,high-school,11.413663501439572,21,true,very high,false,false,true,false,1.994611703201556,F
 17,female,caucasian,bachelors,15.2140961208779,20,false,none,false,false,false,true,0.9990885438974272,F
 17,female,caucasian,high-school,2.9972559777310326,28,false,high,true,true,false,false,0.5219557256642748,F
-17,male,other,some-college,11.43657542365382,1,false,high,true,false,false,false,3.4636875491234314,B
+17,male,other,some-college,11.43657542365382,1,false,high,true,false,false,false,3.463687549123432,B
 18,male,caucasian,high-school,5.072849486827511,8,false,none,false,true,false,false,1.9879647265294176,F
 16,female,caucasian,some-college,4.561236338000398,16,false,moderate,true,false,false,true,1.6819048043902567,F
 16,male,caucasian,high-school,0.2305202810597051,26,false,moderate,false,false,false,false,0.1126350589951871,F
-16,female,caucasian,some-college,2.606814471381438,17,false,high,true,false,false,true,1.9079839135479153,F
+16,female,caucasian,some-college,2.606814471381438,17,false,high,true,false,false,true,1.9079839135479155,F
 18,male,other,high-school,6.185362229993907,12,false,none,false,false,false,false,1.1979333311054492,F
 17,male,caucasian,some-college,2.337575211818781,0,true,high,false,false,false,false,3.2152726848869184,B
 16,female,caucasian,high-school,19.71716880821875,11,false,low,false,false,false,false,2.190269258704484,D
 18,female,asian,some-college,6.172652970479014,19,false,moderate,false,false,true,false,1.1509661314441684,F
-16,female,caucasian,bachelors,2.6064789340465633,19,false,high,false,false,false,true,0.6901513450987352,F
+16,female,caucasian,bachelors,2.6064789340465637,19,false,high,false,false,false,true,0.6901513450987352,F
 15,female,caucasian,high-school,3.981646256559155,20,false,moderate,true,false,false,false,1.5199552920755757,F
 16,male,caucasian,bachelors,11.75406456682953,4,true,moderate,false,false,false,false,3.168988610106379,B
-16,male,african-american,some-college,1.2808704772957702,7,false,none,true,false,false,false,1.8081645587687412,F
+16,male,african-american,some-college,1.2808704772957702,7,false,none,true,false,false,false,1.8081645587687407,F
 17,male,other,high-school,17.248682602823138,26,true,high,true,false,false,false,1.1158787303056936,F
 18,female,asian,some-college,19.229993584742942,14,false,very high,false,false,false,false,2.0033079798237297,D
 17,male,caucasian,high-school,4.934948413347618,26,true,very high,false,false,false,false,0.8897149150878433,F
@@ -1276,18 +1276,18 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,asian,bachelors,13.47033573634518,9,true,moderate,true,false,false,false,2.646556960552807,C
 18,female,caucasian,bachelors,2.3002187365619564,28,true,none,false,false,false,false,0.3817684951501578,F
 15,female,caucasian,some-college,13.896414597434417,11,true,none,true,true,false,false,2.396139095071558,D
-17,female,caucasian,high-school,8.830945777596607,10,true,low,false,true,true,false,2.5956488625977054,C
+17,female,caucasian,high-school,8.830945777596607,10,true,low,false,true,true,false,2.595648862597705,C
 15,female,caucasian,some-college,18.899695711116863,3,true,high,true,true,false,false,4.0,A
 18,female,caucasian,some-college,2.8322270123579862,18,true,very high,true,false,false,false,1.4195226349555488,F
 16,male,asian,high-school,12.85666781631476,5,false,very high,true,true,false,false,3.432684708354722,B
 17,female,caucasian,some-college,7.6396009092589185,24,false,none,false,false,false,true,0.1293067518875465,F
-15,male,african-american,some-college,19.13629341181755,8,true,very high,false,false,false,false,2.9289482377250686,C
+15,male,african-american,some-college,19.136293411817554,8,true,very high,false,false,false,false,2.9289482377250686,C
 15,male,caucasian,high-school,6.59949790580553,19,false,moderate,false,false,false,false,0.9471334632498166,F
 17,female,caucasian,high-school,19.243718189836,9,true,high,false,true,false,false,2.9995441039151167,C
-16,female,caucasian,high-school,18.02971702201498,4,true,low,true,false,false,false,3.0553862953980757,B
+16,female,caucasian,high-school,18.02971702201498,4,true,low,true,false,false,false,3.055386295398076,B
 16,male,asian,bachelors,5.407664706213127,26,false,none,false,false,false,false,0.0,F
 16,male,caucasian,high-school,16.070835536528556,12,true,moderate,false,true,false,true,2.745858798383193,C
-18,male,asian,high-school,19.91208403607012,8,false,high,true,false,true,true,3.2146284256976476,B
+18,male,asian,high-school,19.91208403607012,8,false,high,true,false,true,true,3.214628425697648,B
 15,female,caucasian,some-college,5.053260043425647,1,false,low,false,false,true,false,3.4154133242434344,B
 15,male,asian,high-school,8.735543386466393,17,false,low,true,false,false,true,1.4693892718306072,F
 15,female,caucasian,none,10.403614731335193,20,false,very high,false,false,false,false,1.5521129376507927,F
@@ -1302,17 +1302,17 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,asian,high-school,1.7040095511932396,1,true,moderate,false,false,false,false,2.997505608420635,C
 18,female,caucasian,some-college,13.001849022798629,22,false,moderate,true,true,false,true,1.1761890337144745,F
 17,female,caucasian,some-college,13.073129528112409,23,false,high,true,true,true,false,1.6689245457866109,F
-16,male,caucasian,high-school,19.124423472872554,29,true,high,true,true,false,false,1.6230040750090506,F
+16,male,caucasian,high-school,19.124423472872557,29,true,high,true,true,false,false,1.6230040750090506,F
 16,female,other,some-college,0.0604174271232249,21,false,moderate,false,false,false,true,0.5177931283748711,F
 17,male,african-american,none,4.958648996116144,13,false,low,true,false,false,false,1.9461006983336528,F
 18,female,other,some-college,18.55582958750631,10,false,high,false,true,false,false,2.815003047977988,C
 18,male,caucasian,some-college,18.64267830796566,22,false,high,true,false,false,false,1.24818256681425,F
-15,male,african-american,high-school,14.411728387412747,10,true,high,true,false,false,false,2.7590143433849756,C
+15,male,african-american,high-school,14.411728387412747,10,true,high,true,false,false,false,2.759014343384976,C
 18,female,african-american,some-college,15.3152664209508,16,false,moderate,false,true,false,false,1.9212942080249984,F
 17,female,caucasian,high-school,1.8296591585929425,3,false,low,false,false,false,false,2.732290675858265,C
 16,female,asian,some-college,10.277516695564673,12,false,high,false,false,false,false,2.2286086189122747,D
-15,male,other,none,4.6316598257799875,6,true,moderate,false,false,true,false,2.611688472593835,C
-15,male,asian,bachelors,3.6243608722723457,15,true,very high,false,false,true,false,2.197776727185656,D
+15,male,other,none,4.631659825779988,6,true,moderate,false,false,true,false,2.611688472593835,C
+15,male,asian,bachelors,3.624360872272345,15,true,very high,false,false,true,false,2.197776727185656,D
 16,male,asian,high-school,16.20606598246665,0,true,high,true,false,false,false,3.3355067927178226,B
 18,female,caucasian,bachelors,2.7007627336109485,12,false,low,false,false,false,false,1.7215979626358573,F
 16,male,caucasian,high-school,9.373032739927703,0,false,moderate,false,true,true,true,3.2879731984208025,B
@@ -1335,7 +1335,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,other,higher,5.75868188186438,4,false,moderate,true,true,false,true,3.1274525275923986,B
 18,female,caucasian,high-school,3.710519505154384,25,false,high,true,false,false,false,1.003614145687202,F
 16,female,caucasian,some-college,13.03359589756854,4,false,high,false,false,false,true,3.3692186048208828,B
-17,male,caucasian,none,14.252028145967865,8,false,high,false,false,false,false,2.7913861084723397,C
+17,male,caucasian,none,14.252028145967865,8,false,high,false,false,false,false,2.79138610847234,C
 16,male,african-american,high-school,13.760610379039626,26,false,moderate,true,false,false,false,0.6735259456903064,F
 16,female,caucasian,none,6.386337600427481,27,false,low,false,false,false,false,0.3375541414467983,F
 16,female,other,higher,5.044048043186617,25,true,moderate,true,false,false,false,0.886889415770466,F
@@ -1359,7 +1359,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,asian,high-school,15.746976968194142,12,false,very high,true,true,false,false,3.0234824828446896,B
 18,male,asian,high-school,10.826707654025345,0,false,high,false,true,true,false,3.729652301008408,A
 17,male,other,bachelors,6.477911051607583,24,true,none,false,false,false,false,0.8419632253726905,F
-16,male,caucasian,some-college,2.725011301839557,7,true,moderate,false,false,false,false,2.5841742785969637,C
+16,male,caucasian,some-college,2.725011301839557,7,true,moderate,false,false,false,false,2.584174278596964,C
 16,male,african-american,high-school,17.751261436323826,4,true,high,true,false,false,false,3.3721260428259656,B
 15,female,caucasian,some-college,9.41524784775206,5,true,low,false,false,false,false,3.060805402033993,B
 16,male,caucasian,some-college,17.562303939714027,22,false,high,false,false,false,false,1.1680520002406818,F
@@ -1368,12 +1368,12 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,caucasian,some-college,16.085223087569002,13,false,high,true,false,true,false,2.578667734306398,C
 16,male,asian,some-college,13.183110892002688,21,false,high,false,true,false,false,1.6255519548363606,F
 15,male,caucasian,none,7.961096813578754,22,false,high,false,false,false,true,0.9340163958011902,F
-16,female,asian,none,10.27266767857302,10,true,low,false,true,false,true,2.7026383401137477,C
+16,female,asian,none,10.27266767857302,10,true,low,false,true,false,true,2.702638340113748,C
 17,male,african-american,high-school,16.060910493517596,5,true,low,true,false,false,false,2.964009263152522,C
 17,female,caucasian,none,7.473005927459684,10,true,moderate,false,true,false,false,2.267458131705519,D
 18,male,caucasian,some-college,7.762429135369942,12,true,low,true,false,false,false,1.7536230683511045,F
 16,male,caucasian,some-college,1.913802321160023,11,true,low,false,true,false,false,2.0232340815930123,D
-17,female,african-american,high-school,18.291688704434954,21,true,moderate,false,false,false,false,1.6780125322160857,F
+17,female,african-american,high-school,18.291688704434957,21,true,moderate,false,false,false,false,1.6780125322160857,F
 15,male,caucasian,bachelors,1.8207262989088344,1,true,high,false,true,true,false,3.659836405312248,A
 18,male,caucasian,high-school,12.964183548971118,20,false,none,true,true,false,false,1.3627443691586447,F
 15,female,caucasian,high-school,8.263889576055954,2,false,low,true,false,false,false,2.8138057680897126,C
@@ -1395,7 +1395,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,high-school,5.488252632713635,1,false,moderate,false,false,false,false,2.833576110778921,C
 15,male,african-american,high-school,7.863408691285283,28,true,moderate,true,false,false,false,0.7852135676838187,F
 16,male,caucasian,high-school,7.755286570594995,13,false,high,false,false,false,true,1.8856147854844247,F
-17,female,caucasian,some-college,5.7373374996558795,8,false,low,true,true,false,false,2.7012305082850903,C
+17,female,caucasian,some-college,5.73733749965588,8,false,low,true,true,false,false,2.7012305082850903,C
 17,male,other,high-school,5.371592086659332,17,false,moderate,true,false,false,false,1.5219159011875882,F
 18,female,caucasian,high-school,17.22125872959439,18,false,moderate,false,true,false,false,1.879725986688092,F
 15,female,caucasian,higher,1.3972384136932336,11,false,none,true,false,true,false,2.0373480173849385,D
@@ -1404,15 +1404,15 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,some-college,6.890117867881265,11,false,high,true,false,false,false,1.9746552454467765,F
 16,female,african-american,high-school,1.2308606826967372,11,false,moderate,true,false,true,false,2.194980371913127,D
 16,male,african-american,high-school,5.399472737109241,17,true,low,false,false,true,false,1.7179959243485303,F
-18,female,caucasian,high-school,15.36842142234484,8,false,high,false,true,false,false,2.5103287211690932,C
-16,male,caucasian,some-college,17.700306490945174,16,true,moderate,false,true,true,false,2.4349505569398873,D
+18,female,caucasian,high-school,15.36842142234484,8,false,high,false,true,false,false,2.510328721169093,C
+16,male,caucasian,some-college,17.700306490945174,16,true,moderate,false,true,true,false,2.4349505569398877,D
 15,male,african-american,some-college,4.430543038047341,20,false,moderate,true,true,false,false,1.3550534623962087,F
 17,female,caucasian,some-college,9.270956785178438,15,false,moderate,true,true,false,true,1.5452551045196994,F
 16,female,other,bachelors,9.406480958744128,16,false,low,true,false,false,true,1.6190305128354965,F
 18,female,asian,some-college,17.471506115194686,20,true,high,false,false,false,false,2.020741651591236,D
 16,female,other,high-school,15.255981057516108,23,false,moderate,false,false,false,true,0.983576997394541,F
 15,female,caucasian,high-school,10.261544367360996,7,false,low,true,false,false,true,2.0624682672770884,D
-18,female,other,bachelors,13.414944009435468,10,false,high,false,true,false,false,2.6441942090704775,C
+18,female,other,bachelors,13.414944009435468,10,false,high,false,true,false,false,2.644194209070477,C
 16,female,caucasian,high-school,16.947101078187337,23,false,none,true,true,false,false,1.3478638291935137,F
 18,female,caucasian,none,0.1907790805108988,1,true,low,true,true,false,false,3.055253981943473,B
 15,male,caucasian,some-college,8.057800621000972,7,false,moderate,false,true,false,false,2.513692714891721,C
@@ -1426,7 +1426,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,some-college,8.36726076857586,16,false,very high,true,false,true,false,1.785051807919565,F
 16,female,asian,none,14.28306292784348,13,true,low,false,false,false,false,1.8800650933404628,F
 17,male,asian,some-college,17.224644545207717,13,false,moderate,true,true,false,false,2.5552231050706653,C
-17,male,caucasian,high-school,3.0936969636972234,15,false,high,false,false,false,false,1.574306088258861,F
+17,male,caucasian,high-school,3.093696963697224,15,false,high,false,false,false,false,1.574306088258861,F
 16,male,caucasian,some-college,9.030940456348487,16,false,high,false,false,true,false,1.8138466222839496,F
 17,female,caucasian,high-school,8.160401825701623,5,true,none,false,false,false,false,2.5844682625115074,C
 15,female,asian,some-college,13.74929608099456,25,false,none,false,true,false,true,0.5297986094952745,F
@@ -1436,14 +1436,14 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,high-school,8.362631995872453,25,false,moderate,false,false,false,false,0.7508880429586313,F
 16,male,caucasian,high-school,18.2203139995844,0,false,very high,false,false,false,false,3.75263935309428,A
 16,male,asian,some-college,19.86327477866957,24,false,low,false,true,true,false,1.1622578007219209,F
-15,female,caucasian,some-college,2.1218409989590414,14,true,moderate,false,true,false,false,1.8714659014427095,F
+15,female,caucasian,some-college,2.121840998959041,14,true,moderate,false,true,false,false,1.8714659014427095,F
 18,female,caucasian,high-school,4.661063759697173,19,true,moderate,false,false,false,false,1.074937388775604,F
 17,female,asian,high-school,19.007595029641863,20,false,low,true,false,false,false,1.3127724135140753,F
 15,female,asian,high-school,19.166553729627736,17,false,low,false,true,false,false,1.7028816752194542,F
 16,female,caucasian,some-college,1.95414550773517,29,true,very high,false,false,false,false,0.5403751565523403,F
 18,male,caucasian,high-school,0.2999700075427336,27,true,high,false,false,false,false,0.3418223884177119,F
 17,female,caucasian,higher,3.222000465128445,25,false,low,false,false,false,true,0.2697208620534843,F
-17,male,other,some-college,19.92025566764497,12,true,high,false,false,false,false,2.5041677670545877,C
+17,male,other,some-college,19.92025566764497,12,true,high,false,false,false,false,2.504167767054588,C
 15,female,caucasian,high-school,3.5999923322137373,23,false,low,true,false,false,false,0.5303581886716461,F
 18,male,other,some-college,10.050952134440465,29,false,high,false,true,true,false,0.820105530138668,F
 18,female,african-american,bachelors,16.96835452861022,1,true,none,false,true,false,false,3.408489770633043,B
@@ -1469,7 +1469,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,asian,high-school,5.30069836281095,25,false,high,true,true,false,true,1.1867378284984922,F
 18,female,asian,high-school,10.723845585644083,3,false,high,false,true,false,true,3.3327885878934707,B
 15,female,african-american,none,8.98296405464425,16,false,low,false,false,false,false,1.4890670205298442,F
-15,male,caucasian,some-college,8.802415419698724,1,true,low,true,false,true,false,3.3073781135531597,B
+15,male,caucasian,some-college,8.802415419698724,1,true,low,true,false,true,false,3.30737811355316,B
 16,female,caucasian,some-college,1.8227467817941445,15,true,low,false,false,false,false,1.6109406825598966,F
 15,female,caucasian,some-college,14.372074813803913,23,false,very high,true,true,false,false,2.057378500596372,D
 16,female,caucasian,some-college,4.274733759638214,13,false,low,false,false,false,false,1.673711404485327,F
@@ -1479,7 +1479,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,bachelors,11.677165346160308,1,true,moderate,false,false,false,false,3.454462459935305,B
 16,female,caucasian,high-school,7.42926678668943,15,true,high,true,false,false,false,2.158610170146598,D
 18,male,caucasian,higher,8.978234451855801,3,false,moderate,false,true,false,false,2.747908442514612,C
-17,male,caucasian,bachelors,10.743386432080577,0,false,low,true,false,false,true,3.3239029603291117,B
+17,male,caucasian,bachelors,10.743386432080577,0,false,low,true,false,false,true,3.323902960329112,B
 15,female,asian,some-college,4.070710449636097,22,false,moderate,false,false,false,false,0.9097635331410971,F
 16,female,caucasian,higher,3.115032457310596,19,false,high,false,true,false,false,1.1678958000789352,F
 15,male,caucasian,none,17.608438057472096,26,false,very high,false,false,false,false,1.2204179764419896,F
@@ -1490,7 +1490,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,african-american,none,11.083394432220002,24,false,very high,false,false,false,false,0.9526750330525334,F
 15,female,asian,some-college,11.17681741909333,2,false,moderate,false,true,false,false,3.235302580709104,B
 15,male,other,some-college,14.140623386457689,4,false,none,false,false,false,false,2.533432395797906,C
-17,female,caucasian,some-college,3.5496366998202356,5,false,very high,false,false,false,false,2.772388536783242,C
+17,female,caucasian,some-college,3.549636699820236,5,false,very high,false,false,false,false,2.772388536783242,C
 17,female,asian,high-school,5.044462684612377,21,false,high,false,false,false,false,0.9467679046532856,F
 16,female,other,high-school,16.214609304608253,25,true,moderate,false,true,false,false,1.3154643711031746,F
 16,female,other,bachelors,18.94341233686788,7,false,very high,false,true,true,false,3.31820802902305,B
@@ -1501,8 +1501,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,african-american,some-college,6.510066762522708,29,false,high,false,false,false,true,0.211194222791904,F
 17,female,african-american,high-school,2.873752503684255,29,false,low,false,false,false,false,0.0,F
 16,male,caucasian,some-college,14.198661468684923,23,true,low,false,false,false,false,0.8939860125136853,F
-16,female,asian,bachelors,10.674508273428888,18,false,moderate,true,false,true,false,1.8307932453900513,F
-17,female,asian,some-college,2.8766894198062176,6,false,moderate,false,false,false,false,2.4651174139719014,D
+16,female,asian,bachelors,10.674508273428888,18,false,moderate,true,false,true,false,1.8307932453900515,F
+17,female,asian,some-college,2.8766894198062176,6,false,moderate,false,false,false,false,2.465117413971901,D
 17,male,caucasian,higher,0.1848317681102873,2,false,low,true,false,false,false,2.6505223435766907,C
 17,male,asian,some-college,16.163140980484254,7,true,very high,false,false,false,false,3.161961511352394,B
 18,male,african-american,high-school,3.5238881232849506,0,false,moderate,true,false,false,false,2.905702974207415,C
@@ -1521,17 +1521,17 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,some-college,12.11518978717944,27,true,very high,false,true,true,false,1.3649825214589588,F
 16,male,caucasian,high-school,19.257409880036192,0,false,very high,false,false,false,false,3.524855822624972,A
 15,male,other,some-college,11.789416061864936,5,false,very high,true,false,true,false,3.0562181766199736,B
-15,male,other,high-school,9.423451187562836,8,false,high,true,true,false,false,2.5706824923097633,C
+15,male,other,high-school,9.423451187562836,8,false,high,true,true,false,false,2.5706824923097638,C
 15,female,caucasian,high-school,11.468032517954075,14,true,moderate,false,false,false,true,2.134832886078039,D
-15,female,asian,some-college,18.55801259724054,11,false,moderate,false,true,false,true,2.3019321078440553,D
+15,female,asian,some-college,18.55801259724054,11,false,moderate,false,true,false,true,2.3019321078440558,D
 17,female,caucasian,bachelors,16.567562912032926,2,true,moderate,true,false,false,false,3.354368116289429,B
 17,female,african-american,high-school,6.45957466727616,10,false,high,false,false,true,false,2.252575524405779,D
 15,male,asian,some-college,4.745087273142746,14,false,moderate,false,false,false,false,2.059778342061027,D
 16,male,other,some-college,5.252672247321472,2,false,low,false,false,false,false,2.705024407226965,C
-18,male,caucasian,high-school,10.08842079430426,13,false,low,false,false,false,false,1.8208437343058657,F
-16,female,asian,high-school,14.880989024571557,1,false,high,false,false,true,false,3.2609504905530393,B
+18,male,caucasian,high-school,10.08842079430426,13,false,low,false,false,false,false,1.8208437343058652,F
+16,female,asian,high-school,14.880989024571557,1,false,high,false,false,true,false,3.2609504905530398,B
 16,male,caucasian,bachelors,10.06438414365924,28,false,high,true,false,false,false,0.741527556169066,F
-16,female,other,some-college,1.3559279165622518,3,true,moderate,false,false,true,true,2.9437501978177756,C
+16,female,other,some-college,1.3559279165622518,3,true,moderate,false,false,true,true,2.943750197817776,C
 15,female,caucasian,some-college,14.471614008799618,25,false,low,false,false,false,false,0.4474828563605549,F
 17,male,african-american,some-college,16.119402573419077,18,true,high,false,false,false,false,1.844059263528674,F
 16,male,african-american,none,5.789957302394393,11,true,none,true,false,false,false,1.899197563198893,F
@@ -1539,7 +1539,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,some-college,8.531838021087868,16,true,moderate,false,false,false,true,1.666640097790168,F
 16,female,other,some-college,17.782387114548857,2,false,very high,false,false,false,false,3.309453585183811,B
 15,male,caucasian,high-school,16.904511163214796,9,false,moderate,true,true,false,false,2.7618237513851387,C
-17,male,african-american,none,10.508639966192844,15,true,moderate,false,false,false,true,2.0425379785048077,D
+17,male,african-american,none,10.508639966192844,15,true,moderate,false,false,false,true,2.042537978504808,D
 17,female,caucasian,high-school,13.83011091627189,21,true,high,false,true,false,false,1.4874769372990635,F
 18,male,caucasian,higher,17.66699402044208,8,true,moderate,false,true,false,true,2.8739722821184617,C
 15,female,african-american,some-college,9.91434020156551,10,false,low,false,false,false,false,2.0159494650624468,D
@@ -1556,21 +1556,21 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,some-college,3.5217857588770785,22,false,very high,false,false,false,false,0.9357793408847956,F
 15,male,african-american,high-school,14.866658271313131,4,false,high,false,false,false,true,2.9380028297730134,C
 16,male,caucasian,high-school,5.041397737003431,6,true,moderate,true,false,false,true,2.7671513375162338,C
-17,male,caucasian,some-college,9.083349403355276,8,false,low,true,true,false,false,3.0269833109614934,B
+17,male,caucasian,some-college,9.083349403355276,8,false,low,true,true,false,false,3.026983310961493,B
 17,male,caucasian,some-college,7.717188936722181,20,true,moderate,true,true,false,false,1.5364194793970165,F
 17,male,asian,bachelors,19.641547572712614,17,false,very high,true,true,true,false,2.495379496847872,D
-17,female,other,some-college,7.821844882964411,20,false,high,false,false,false,false,1.6155716602528696,F
+17,female,other,some-college,7.82184488296441,20,false,high,false,false,false,false,1.6155716602528696,F
 18,male,caucasian,none,1.599649655935096,7,false,moderate,false,true,false,false,2.2103713279948844,D
 18,female,caucasian,high-school,1.7965150514416806,11,true,moderate,false,false,false,true,1.7980154436118352,F
 16,female,asian,higher,11.815074427061296,19,false,moderate,true,false,true,false,1.5662885180613493,F
-17,male,other,some-college,11.987271034765312,1,false,moderate,false,false,false,false,2.9213867570696292,C
+17,male,other,some-college,11.987271034765312,1,false,moderate,false,false,false,false,2.921386757069629,C
 17,male,caucasian,some-college,8.3751798096531,9,false,high,false,false,false,false,2.519724822511747,C
 15,male,caucasian,none,8.636873846240594,18,false,moderate,true,false,false,false,1.4892073187626624,F
 18,female,caucasian,some-college,1.0786516568174245,8,false,low,false,false,false,false,1.6636371244012207,F
 17,male,african-american,none,10.330930207785244,24,false,moderate,false,false,false,false,0.7737842057946157,F
 16,female,caucasian,some-college,10.094789507607034,23,false,low,false,true,false,false,0.8916240459711724,F
 16,male,caucasian,bachelors,2.9909863711388907,7,false,very high,false,false,false,false,2.215087048853621,D
-18,male,african-american,higher,2.0767877222185516,23,false,moderate,false,false,false,false,0.6515150205017294,F
+18,male,african-american,higher,2.076787722218552,23,false,moderate,false,false,false,false,0.6515150205017294,F
 16,female,caucasian,some-college,2.47144981198981,23,false,very high,false,false,false,false,0.9740174167472984,F
 16,female,asian,some-college,2.0205649298251704,23,false,low,false,true,false,false,0.3413935419913523,F
 18,male,caucasian,bachelors,12.194163910735195,0,false,low,false,false,false,false,2.773483878750202,C
@@ -1589,7 +1589,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,high-school,17.972778566022065,21,true,very high,false,false,true,false,1.8262650784023136,F
 17,female,asian,bachelors,3.287853686568283,10,false,moderate,true,false,true,false,2.167614891739184,D
 18,male,asian,bachelors,16.082184921222634,17,false,very high,true,false,false,false,1.8125810860736853,F
-18,female,caucasian,high-school,15.839220289334314,7,false,low,false,true,false,false,3.0101355275332473,B
+18,female,caucasian,high-school,15.839220289334314,7,false,low,false,true,false,false,3.0101355275332478,B
 17,female,caucasian,none,2.5436237843377385,14,false,high,false,true,false,false,2.1366532091173225,D
 18,female,asian,some-college,7.971184482882552,8,false,low,false,false,true,false,2.2968145205845465,D
 18,female,other,bachelors,3.403052822890338,14,false,moderate,false,false,false,false,1.4996666752012844,F
@@ -1599,10 +1599,10 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,asian,some-college,8.22821863520931,12,false,high,false,false,false,true,2.142708088226998,D
 18,female,caucasian,none,18.954656080126107,0,false,low,true,false,true,false,3.4785197150728098,B
 15,male,caucasian,high-school,2.527402838940102,19,false,moderate,false,false,false,false,1.1359698905964322,F
-18,female,asian,some-college,19.473842697003978,3,false,moderate,false,false,false,false,3.3156324327155575,B
+18,female,asian,some-college,19.47384269700397,3,false,moderate,false,false,false,false,3.315632432715557,B
 17,male,caucasian,some-college,4.612772804285279,23,false,high,false,false,true,false,0.9452990404344148,F
 16,female,caucasian,some-college,15.457478727637062,3,false,low,false,true,true,false,3.360097709606442,B
-15,female,caucasian,some-college,6.779398523456428,3,true,very high,false,false,false,false,3.5834476051437596,A
+15,female,caucasian,some-college,6.779398523456428,3,true,very high,false,false,false,false,3.58344760514376,A
 18,female,caucasian,high-school,2.861627908346278,12,false,moderate,true,false,false,true,2.268905391743987,D
 17,female,caucasian,some-college,17.1577837049248,1,false,high,false,false,true,true,3.3946498667267635,B
 16,female,african-american,none,6.177217984729264,27,false,low,false,true,false,false,0.4239919484053893,F
@@ -1626,15 +1626,15 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,asian,some-college,15.272305979233137,28,true,high,false,false,false,false,0.3478369759058787,F
 17,male,asian,bachelors,5.16528715774327,19,true,high,false,false,false,false,1.676727436835331,F
 15,male,caucasian,none,9.615723363594546,26,true,moderate,true,false,false,false,0.5742779997538898,F
-15,female,caucasian,high-school,19.840319387936713,10,true,high,false,true,true,true,3.103994380105366,B
+15,female,caucasian,high-school,19.840319387936717,10,true,high,false,true,true,true,3.103994380105366,B
 17,female,caucasian,bachelors,13.733008467080746,6,false,moderate,true,true,false,false,2.8020738343659453,C
 16,male,caucasian,high-school,16.827135426103972,17,true,high,false,false,true,false,2.1275892967469687,D
 17,female,african-american,high-school,8.296952131210915,3,false,low,true,false,false,false,2.688349836315715,C
 17,female,asian,some-college,15.357218462517109,4,false,moderate,false,false,false,false,2.7837652099236254,C
 18,female,african-american,high-school,0.8101834588264367,3,false,high,false,true,true,false,3.133768038538137,B
-17,male,asian,bachelors,2.4582236508448996,3,false,low,false,false,true,false,2.618699894953416,C
+17,male,asian,bachelors,2.4582236508449,3,false,low,false,false,true,false,2.618699894953416,C
 15,male,caucasian,some-college,4.061411858401243,26,true,moderate,false,false,false,false,0.7716774917459892,F
-17,male,caucasian,some-college,8.03903849230439,12,false,moderate,false,true,true,false,2.2748420474669953,D
+17,male,caucasian,some-college,8.03903849230439,12,false,moderate,false,true,true,false,2.2748420474669957,D
 15,female,asian,higher,16.914897566515265,15,false,low,true,false,false,false,1.53961940600191,F
 15,female,caucasian,some-college,6.92532101575861,24,false,low,false,true,false,true,1.128068364082897,F
 15,male,african-american,none,13.092423870309258,13,true,low,false,false,false,false,1.5956273665141478,F
@@ -1654,10 +1654,10 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,some-college,7.829085415889423,28,false,high,false,true,false,false,0.745518983001618,F
 17,male,caucasian,high-school,5.24225944033593,15,true,moderate,true,false,false,false,1.7946671055341392,F
 16,female,caucasian,high-school,6.860880115860204,25,false,moderate,false,true,false,false,0.7012637128402552,F
-17,female,african-american,some-college,8.214008011730861,5,false,low,false,false,false,false,2.4579014070477796,D
+17,female,african-american,some-college,8.214008011730861,5,false,low,false,false,false,false,2.45790140704778,D
 16,female,asian,high-school,14.408321381846855,26,false,none,false,false,false,false,0.4291372796949342,F
 17,female,caucasian,none,10.230723884695836,5,false,very high,false,false,true,false,3.0168978681026624,B
-15,female,other,some-college,18.87130434313954,1,false,moderate,false,false,false,false,3.6182727121672262,A
+15,female,other,some-college,18.87130434313954,1,false,moderate,false,false,false,false,3.618272712167226,A
 18,female,african-american,none,0.8376078767755102,23,false,none,true,false,false,false,0.4258137609932144,F
 17,male,asian,some-college,10.061366452640565,7,true,high,true,false,false,false,2.735960967147571,C
 17,male,african-american,some-college,11.684495776634362,29,false,low,true,false,false,true,0.2234305089365645,F
@@ -1673,13 +1673,13 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,high-school,13.143953232801245,21,false,moderate,false,true,false,false,1.2662863438742906,F
 18,male,asian,some-college,8.78058487960896,17,false,very high,true,false,false,false,1.6224646303185568,F
 15,male,caucasian,some-college,0.8976203294543605,11,false,moderate,false,false,false,false,1.8582963066751943,F
-15,male,caucasian,none,18.402276266452574,22,false,none,false,true,false,false,0.6404398092314469,F
+15,male,caucasian,none,18.40227626645257,22,false,none,false,true,false,false,0.6404398092314469,F
 15,male,other,high-school,9.405924453831496,18,false,moderate,false,false,true,false,1.3978971899557189,F
 17,female,african-american,high-school,0.5799348867189602,12,false,low,false,false,false,false,1.4291805817178274,F
-17,female,asian,some-college,13.796421426575238,6,false,high,false,true,true,false,2.9346921024221513,C
+17,female,asian,some-college,13.796421426575238,6,false,high,false,true,true,false,2.9346921024221517,C
 16,male,caucasian,bachelors,9.636745071525164,24,false,none,false,false,false,false,0.632826221112053,F
 16,male,african-american,high-school,2.4869063488482146,9,false,low,true,true,false,true,2.5653473181422046,C
-18,male,african-american,bachelors,4.2854361862051915,29,true,moderate,false,true,false,false,0.3979893966925436,F
+18,male,african-american,bachelors,4.285436186205192,29,true,moderate,false,true,false,false,0.3979893966925436,F
 16,male,african-american,none,1.2898136091169254,9,true,low,false,false,false,false,2.0645643026074056,D
 15,female,african-american,some-college,11.485870794171472,1,false,moderate,false,true,false,false,3.121119482369849,B
 15,male,african-american,none,12.440589585040184,13,true,low,false,true,false,false,1.920609662813219,F
@@ -1687,7 +1687,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,some-college,16.3420426600523,21,true,low,false,true,false,false,1.2720101075733885,F
 18,female,asian,some-college,17.220176426160272,28,false,very high,false,false,false,false,1.06642462275961,F
 15,male,caucasian,bachelors,12.312487933662531,5,false,moderate,false,false,true,false,2.905384065736881,C
-15,male,african-american,some-college,0.2551295941486109,8,true,high,true,false,true,true,2.5670318028330574,C
+15,male,african-american,some-college,0.2551295941486109,8,true,high,true,false,true,true,2.567031802833057,C
 18,female,caucasian,higher,13.904593114954713,12,false,low,false,false,false,true,1.6943843846574218,F
 16,male,african-american,some-college,8.359984338407031,8,true,high,true,false,true,false,2.801388938876275,C
 16,male,asian,bachelors,11.31114966452774,12,true,moderate,false,false,false,true,1.813628891214413,F
@@ -1706,10 +1706,10 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,caucasian,some-college,11.702433218542494,7,false,moderate,false,true,true,false,2.7154909355151484,C
 18,female,caucasian,some-college,8.858281960839271,0,true,very high,true,false,false,false,4.0,A
 17,female,caucasian,some-college,0.6835117808217483,6,false,moderate,true,false,false,false,2.676389709344022,C
-16,female,caucasian,high-school,6.393041245106012,18,false,very high,true,false,false,false,1.8547004421395892,F
+16,female,caucasian,high-school,6.393041245106012,18,false,very high,true,false,false,false,1.8547004421395887,F
 18,female,african-american,some-college,16.20865827146341,1,false,high,true,false,false,false,3.5485205508668662,A
 16,female,caucasian,high-school,13.794030697237371,13,false,very high,false,false,true,true,1.9523336493468064,F
-15,male,african-american,higher,14.49741707159761,17,false,high,false,false,false,false,1.8496433884510397,F
+15,male,african-american,higher,14.49741707159761,17,false,high,false,false,false,false,1.84964338845104,F
 15,female,caucasian,high-school,13.962338481670471,29,true,high,false,false,false,false,0.8752010880422385,F
 15,male,caucasian,high-school,6.219460427660666,14,false,moderate,false,false,true,false,1.7935557295101183,F
 15,male,african-american,none,1.9932784415355176,13,false,low,false,true,true,false,1.8556669117535305,F
@@ -1722,7 +1722,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,none,6.441611506325316,26,false,moderate,false,true,false,true,0.384375395876116,F
 17,female,caucasian,bachelors,11.571706971858994,25,false,high,true,false,false,false,1.3635615499322744,F
 17,female,african-american,some-college,1.5018729161062794,16,false,moderate,true,false,false,false,1.479668777301296,F
-16,male,caucasian,bachelors,18.867145974197634,21,true,moderate,true,false,false,false,1.5812038761627714,F
+16,male,caucasian,bachelors,18.867145974197637,21,true,moderate,true,false,false,false,1.5812038761627714,F
 16,male,other,bachelors,7.3016734656880145,27,false,none,false,false,false,false,0.0,F
 16,male,caucasian,some-college,18.251684358496465,18,true,moderate,true,false,false,false,1.886578592822845,F
 18,female,caucasian,none,15.610436055140436,26,false,high,false,false,false,false,0.863545351686935,F
@@ -1738,21 +1738,21 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,caucasian,high-school,17.449256301673483,10,false,very high,false,false,false,true,2.440769899927139,D
 17,male,caucasian,high-school,4.312795254516983,4,false,high,true,true,false,false,3.1525193708574304,B
 17,male,caucasian,some-college,1.6760831819012156,29,false,low,true,false,false,false,0.2170420107058955,F
-17,male,caucasian,high-school,9.657888731971973,16,false,moderate,true,true,false,false,1.8116223809515473,F
+17,male,caucasian,high-school,9.657888731971973,16,false,moderate,true,true,false,false,1.8116223809515477,F
 18,female,african-american,none,10.281613912385463,10,false,high,true,false,false,false,2.777966932491008,C
 16,female,african-american,higher,16.583635598998356,23,false,high,false,false,false,true,1.223828264622006,F
 16,male,african-american,none,8.875671585646714,25,false,high,true,false,false,false,1.101939932271634,F
 17,male,caucasian,bachelors,11.417060510886255,7,false,low,false,false,false,false,2.060172050067505,D
-16,female,asian,high-school,10.541418770269166,9,false,high,false,false,false,false,2.524422658415435,C
+16,female,asian,high-school,10.541418770269166,9,false,high,false,false,false,false,2.5244226584154354,C
 16,female,caucasian,bachelors,0.7640556751478211,11,false,high,false,false,false,false,1.9665140417865183,F
 18,male,african-american,some-college,12.30429793193828,9,false,high,false,false,false,false,2.8415190017676264,C
 15,female,african-american,bachelors,16.560865715485043,12,false,moderate,false,false,false,false,2.200020267296471,D
 17,female,caucasian,bachelors,3.1500109615160765,25,true,high,false,false,false,false,0.9252693613945324,F
-17,female,caucasian,none,11.886634678531916,17,true,high,false,false,true,false,1.842584134756634,F
+17,female,caucasian,none,11.886634678531916,17,true,high,false,false,true,false,1.8425841347566336,F
 18,female,caucasian,none,11.872210888928286,9,false,high,true,false,false,false,2.6696408286087285,C
 18,male,asian,high-school,3.283699281127175,18,false,moderate,false,false,false,false,1.3276664298868446,F
 16,female,other,some-college,2.4692714746147204,19,false,low,false,false,false,true,0.7547506714781123,F
-17,female,african-american,bachelors,19.601038859529694,16,false,moderate,true,false,false,true,1.845656783786327,F
+17,female,african-american,bachelors,19.60103885952969,16,false,moderate,true,false,false,true,1.845656783786327,F
 15,male,caucasian,some-college,7.874383393060751,19,false,moderate,false,false,false,false,1.537989779203268,F
 18,male,caucasian,some-college,4.548434574470585,15,false,moderate,true,false,false,false,1.58092662695241,F
 15,female,asian,high-school,3.426490889087499,4,false,moderate,true,false,false,false,2.883799714630056,C
@@ -1770,18 +1770,18 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,african-american,some-college,6.069064328992124,29,false,very high,true,true,true,true,1.035181530409912,F
 15,female,caucasian,none,17.278716149199095,16,false,moderate,false,false,false,true,1.5730510214028783,F
 17,male,african-american,some-college,15.630462590661342,3,false,none,true,false,false,false,2.898151345753362,C
-17,female,caucasian,some-college,18.616153446895236,18,false,high,false,false,false,false,1.8209201086118587,F
+17,female,caucasian,some-college,18.61615344689524,18,false,high,false,false,false,false,1.8209201086118587,F
 15,female,african-american,high-school,4.915006243717757,21,false,moderate,false,false,false,false,0.7287945170807484,F
 18,male,caucasian,none,11.539183002419582,24,true,low,false,false,false,false,0.9023572553597988,F
 17,female,caucasian,some-college,5.490891694808893,8,true,high,false,false,false,true,2.421061773387504,D
 18,female,caucasian,higher,16.481889809687484,22,false,low,false,false,true,false,1.2212994205081906,F
-16,male,caucasian,high-school,0.1064838114212851,14,false,very high,false,false,false,false,1.9961073864422312,F
+16,male,caucasian,high-school,0.1064838114212851,14,false,very high,false,false,false,false,1.9961073864422316,F
 17,female,caucasian,high-school,11.29638325772792,27,false,moderate,false,true,false,false,0.622706295394981,F
-18,female,caucasian,high-school,6.78406862543836,8,true,high,false,false,true,false,2.9026025126837935,C
+18,female,caucasian,high-school,6.78406862543836,8,true,high,false,false,true,false,2.902602512683793,C
 18,male,other,some-college,6.453674141556405,23,true,moderate,false,true,false,false,1.3486070016063347,F
 16,female,caucasian,high-school,12.89812647729834,20,true,low,false,false,true,false,1.35114105198072,F
-18,male,african-american,high-school,17.02968898627988,8,false,high,false,false,false,false,2.7455540828498273,C
-18,female,asian,some-college,12.183907827866523,13,true,very high,true,false,true,false,2.9932144641445677,C
+18,male,african-american,high-school,17.02968898627988,8,false,high,false,false,false,false,2.7455540828498277,C
+18,female,asian,some-college,12.183907827866523,13,true,very high,true,false,true,false,2.993214464144568,C
 16,male,other,some-college,17.06345957293445,22,false,high,false,false,false,false,1.5892697074168551,F
 17,male,african-american,high-school,5.291942237620599,20,true,high,true,false,true,false,1.653099762097065,F
 18,male,asian,some-college,10.390037095299622,15,true,very high,false,true,false,true,2.136285525349759,D
@@ -1789,8 +1789,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,none,0.2328979900619243,22,false,none,false,false,false,false,0.3527519592274268,F
 15,male,caucasian,none,11.136242862814802,24,true,none,false,false,false,false,0.6901567908276482,F
 16,male,african-american,bachelors,13.230486482923498,25,false,high,true,false,false,false,0.9430459197705604,F
-15,male,african-american,none,11.8382880883814,16,false,high,false,false,false,false,1.8819787410279112,F
-16,male,caucasian,some-college,14.72559797566843,12,false,high,true,true,false,false,2.4740395368096815,D
+15,male,african-american,none,11.8382880883814,16,false,high,false,false,false,false,1.8819787410279116,F
+16,male,caucasian,some-college,14.72559797566843,12,false,high,true,true,false,false,2.474039536809681,D
 17,female,caucasian,bachelors,11.42679056906154,8,false,very high,false,false,false,true,2.5077426742068285,C
 17,female,african-american,high-school,1.3350050970151384,14,false,high,false,false,false,false,1.563591912280606,F
 18,female,caucasian,high-school,2.3289104816942285,6,false,moderate,false,false,false,false,2.4556437547462835,D
@@ -1799,29 +1799,29 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,asian,bachelors,1.5929025806953168,4,false,low,false,false,true,true,2.28387095613807,D
 17,female,asian,some-college,8.592054868970935,23,false,moderate,false,false,false,false,1.1544100089135072,F
 15,male,asian,none,11.086451961673108,8,false,moderate,true,true,false,false,2.7890998282690926,C
-17,female,caucasian,some-college,6.5749197669921315,11,false,low,false,false,false,false,1.5386892509239083,F
+17,female,caucasian,some-college,6.574919766992132,11,false,low,false,false,false,false,1.5386892509239083,F
 15,male,asian,some-college,14.40867404451556,5,false,high,true,false,false,false,3.0560700900603366,B
 17,male,african-american,some-college,12.875412162024894,27,true,low,false,false,false,false,0.7408967018564105,F
 18,female,caucasian,none,6.656367221833439,12,false,very high,false,false,false,false,2.499681179530751,D
 15,male,caucasian,high-school,15.097450578171212,25,true,moderate,true,false,false,false,0.8952499802854423,F
 17,male,caucasian,some-college,12.973900850660709,27,false,high,true,false,true,false,0.7742848136453381,F
-18,male,caucasian,some-college,12.74890757435804,7,true,high,false,true,false,false,3.0148025336099797,B
+18,male,caucasian,some-college,12.74890757435804,7,true,high,false,true,false,false,3.01480253360998,B
 15,male,african-american,high-school,11.06855401574136,14,false,high,false,false,false,false,1.821442173929074,F
 18,female,asian,high-school,0.2277933617710559,5,false,very high,false,false,false,false,2.543009095435074,C
 16,female,caucasian,bachelors,13.930143669537784,26,false,low,true,false,false,false,0.645454380244234,F
 16,female,caucasian,some-college,7.5208358221831295,5,false,none,false,false,false,false,2.631367841368872,C
-15,female,other,high-school,18.852194203173113,3,false,none,true,false,false,false,2.7124204664131986,C
+15,female,other,high-school,18.852194203173116,3,false,none,true,false,false,false,2.7124204664131986,C
 17,female,caucasian,high-school,16.359695421544107,10,false,high,false,true,false,false,2.672755461068081,C
 15,female,caucasian,high-school,11.753889390626243,20,false,very high,false,false,true,false,1.7148117851610198,F
 18,female,african-american,bachelors,5.043639636385389,29,true,moderate,true,false,false,false,0.2109791787447653,F
 17,female,african-american,some-college,4.074347865553332,17,false,high,true,false,false,false,1.859071573097468,F
-16,female,caucasian,some-college,6.8076967535509825,2,false,none,false,true,false,false,2.6728667073501415,C
+16,female,caucasian,some-college,6.807696753550983,2,false,none,false,true,false,false,2.672866707350141,C
 17,female,caucasian,some-college,9.531358871600371,2,false,low,true,false,false,false,2.7192011567406125,C
 16,male,caucasian,high-school,5.921310200778942,29,false,high,true,false,false,false,0.7369928855488138,F
-17,female,african-american,bachelors,10.298589907849657,11,true,none,true,false,false,false,2.2952134775005772,D
+17,female,african-american,bachelors,10.298589907849657,11,true,none,true,false,false,false,2.295213477500577,D
 17,male,african-american,some-college,3.3074085102637185,26,true,moderate,true,true,false,false,0.84069094147179,F
 17,male,caucasian,high-school,19.55425625651,20,true,high,false,true,false,false,2.131628504443662,D
-18,male,african-american,high-school,2.158491099299878,29,true,high,true,true,true,true,0.9922965742511932,F
+18,male,african-american,high-school,2.1584910992998774,29,true,high,true,true,true,true,0.9922965742511932,F
 18,male,asian,some-college,18.63888279308744,20,false,moderate,true,true,false,false,1.451872243083537,F
 15,female,caucasian,bachelors,18.271560228053897,5,false,high,false,false,true,true,2.860396826235563,C
 15,male,caucasian,high-school,10.50720963638996,20,false,moderate,false,false,false,false,1.1825650544782942,F
@@ -1829,7 +1829,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,some-college,8.720965959451757,5,true,high,true,false,false,false,3.3627162150851144,B
 16,male,caucasian,high-school,12.600691550848763,7,false,low,true,false,false,true,2.251847104187132,D
 15,female,african-american,none,6.811518748422374,14,false,none,false,true,false,false,1.6884763841942343,F
-16,male,asian,high-school,6.023180395708907,17,true,moderate,false,false,false,true,1.8154017176022972,F
+16,male,asian,high-school,6.023180395708907,17,true,moderate,false,false,false,true,1.8154017176022967,F
 15,male,asian,some-college,11.564595723390276,19,false,high,false,false,false,false,1.4948695594196215,F
 18,female,african-american,high-school,9.962593483679608,28,true,low,false,true,false,false,0.0,F
 17,female,asian,high-school,11.59072738299962,15,false,none,false,false,false,true,1.5717864335294334,F
@@ -1846,7 +1846,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,some-college,5.45115497630801,27,false,moderate,false,false,false,false,0.3075940597283189,F
 17,male,asian,some-college,17.430913614162527,5,false,none,false,false,false,false,2.228511429722963,D
 18,female,asian,some-college,9.69984569154999,11,false,high,true,false,false,true,2.5064154144606747,C
-18,male,caucasian,high-school,6.111529186556515,10,false,moderate,false,false,false,false,1.9775380444250976,F
+18,male,caucasian,high-school,6.111529186556515,10,false,moderate,false,false,false,false,1.9775380444250972,F
 15,female,african-american,some-college,10.352778713788693,15,true,low,true,false,false,false,2.340811012860678,D
 16,male,caucasian,some-college,7.639160380905377,19,false,low,false,false,false,true,1.261128239702075,F
 17,female,asian,some-college,11.286021293396605,16,false,low,true,false,true,false,1.783001895562732,F
@@ -1880,8 +1880,8 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,african-american,high-school,11.510990156622064,27,false,low,false,true,false,false,0.6939648518623458,F
 15,female,other,some-college,19.011879318622487,17,false,moderate,true,false,false,false,2.16155873707839,D
 16,female,caucasian,bachelors,17.182607195024666,19,true,low,false,false,false,false,1.8933444720314547,F
-16,female,caucasian,some-college,4.567112283576953,7,true,moderate,true,false,true,false,2.8829580708041513,C
-15,male,african-american,high-school,4.40219660038327,2,false,moderate,true,true,false,true,3.2703738607764876,B
+16,female,caucasian,some-college,4.567112283576953,7,true,moderate,true,false,true,false,2.882958070804152,C
+15,male,african-american,high-school,4.40219660038327,2,false,moderate,true,true,false,true,3.270373860776488,B
 15,male,african-american,some-college,4.023459342278015,25,false,moderate,true,true,true,false,1.027015599936749,F
 15,male,caucasian,high-school,18.449977926050064,5,false,none,true,true,false,true,2.48966890236666,D
 16,female,caucasian,high-school,17.053323062034412,21,true,moderate,false,false,false,false,1.7087987708583718,F
@@ -1892,11 +1892,11 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,high-school,5.067962151187453,8,false,high,false,false,true,true,2.438440919001191,D
 16,female,caucasian,bachelors,10.10056092297534,14,true,low,false,false,false,false,1.9146018444641888,F
 15,male,african-american,some-college,0.6099309570550893,12,false,moderate,true,true,false,false,1.6278371303258028,F
-17,female,african-american,high-school,2.6362074699491833,21,false,low,true,true,false,false,1.069524152365119,F
+17,female,african-american,high-school,2.6362074699491838,21,false,low,true,true,false,false,1.069524152365119,F
 15,female,asian,some-college,17.73179192337893,15,false,moderate,false,true,false,false,2.369652312774279,D
 17,male,african-american,some-college,15.033595340628466,1,false,low,false,false,false,false,2.9747406949660418,C
 16,male,caucasian,some-college,8.457368181181742,25,false,moderate,true,false,false,false,0.3578088919508027,F
-17,female,asian,high-school,10.343007245677544,13,false,moderate,false,false,true,true,1.9225514899197136,F
+17,female,asian,high-school,10.343007245677544,13,false,moderate,false,false,true,true,1.9225514899197131,F
 18,male,african-american,bachelors,7.399977719199549,26,false,low,false,false,false,false,0.33096690773874,F
 16,female,caucasian,high-school,14.81559734321345,5,true,high,false,false,false,true,3.219685483262613,B
 18,female,african-american,some-college,15.683743584641592,1,true,very high,false,true,false,false,3.9514599508156745,A
@@ -1915,9 +1915,9 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,high-school,12.24317317886458,19,false,high,false,true,false,false,1.6626921985519796,F
 18,female,caucasian,bachelors,8.659460996794126,0,false,low,true,false,false,false,2.9640587263043403,C
 16,female,african-american,high-school,1.4204913529865326,11,false,low,true,false,true,false,2.03217846252961,D
-18,female,asian,some-college,9.75753211996119,6,true,very high,false,true,false,false,3.2078192453842034,B
+18,female,asian,some-college,9.75753211996119,6,true,very high,false,true,false,false,3.207819245384204,B
 16,male,asian,some-college,14.043286572966249,7,true,none,false,false,false,false,2.553484846074773,C
-17,male,caucasian,high-school,10.264399516556376,8,true,high,true,true,false,false,3.1288586460030157,B
+17,male,caucasian,high-school,10.264399516556376,8,true,high,true,true,false,false,3.128858646003016,B
 15,male,other,high-school,17.442121274931623,1,true,low,true,true,false,false,4.0,A
 17,female,caucasian,some-college,5.778740333151653,16,true,none,false,false,false,true,1.357062701404827,F
 15,female,asian,bachelors,1.7249834260792984,19,false,none,false,true,false,false,0.6848879979871082,F
@@ -1933,7 +1933,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,some-college,16.224611168027156,14,true,moderate,false,true,false,false,2.0845477071034386,D
 15,female,asian,none,4.452984704535707,6,false,very high,true,false,false,false,2.7778858935835875,C
 17,male,other,some-college,14.348071108104206,29,false,high,false,false,false,false,0.4841831958032389,F
-17,male,caucasian,high-school,18.865967944913052,5,false,moderate,false,false,false,false,2.8757352860069436,C
+17,male,caucasian,high-school,18.86596794491305,5,false,moderate,false,false,false,false,2.875735286006944,C
 18,female,other,high-school,10.55544418137754,3,true,high,false,false,false,false,3.4713372144944583,B
 17,male,caucasian,some-college,10.800583845213756,18,false,moderate,false,false,false,false,1.3180744589421032,F
 16,female,asian,none,9.22067136195624,4,false,low,true,false,false,false,2.715908932047662,C
@@ -1943,13 +1943,13 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,none,19.719831443413188,8,false,high,false,true,false,false,2.726094628858152,C
 16,female,caucasian,high-school,18.755291186364484,5,true,moderate,true,false,false,false,3.099064650031246,B
 16,male,caucasian,none,17.243059165862434,12,false,moderate,true,false,false,false,2.0735452919667288,D
-15,female,african-american,higher,17.782610714097167,26,false,very high,true,true,true,false,1.9831339922227575,F
+15,female,african-american,higher,17.782610714097167,26,false,very high,true,true,true,false,1.983133992222757,F
 18,female,other,bachelors,9.35698366584086,21,false,moderate,false,false,false,false,0.7662736791529805,F
 15,female,caucasian,some-college,13.148886543549295,27,false,high,false,false,false,false,0.6361329335031771,F
 16,male,caucasian,high-school,17.901334458724282,29,false,high,true,true,true,false,1.1480334125866043,F
 18,female,caucasian,bachelors,7.859015299827061,19,false,very high,false,true,true,false,1.7504046795082222,F
-17,female,caucasian,high-school,19.235249566909378,3,false,none,true,false,false,false,2.8211081074612654,C
-18,female,asian,high-school,8.31572124138366,1,false,low,true,false,true,true,3.2405120739686932,B
+17,female,caucasian,high-school,19.23524956690937,3,false,none,true,false,false,false,2.8211081074612654,C
+18,female,asian,high-school,8.31572124138366,1,false,low,true,false,true,true,3.240512073968693,B
 17,male,asian,some-college,12.021653307864312,25,false,high,true,false,false,false,0.7058616313604631,F
 17,male,african-american,bachelors,14.19609426544744,3,false,moderate,true,false,false,false,2.9127221778502177,C
 18,female,caucasian,none,19.011840261518767,7,false,moderate,false,false,false,false,2.894723042268489,C
@@ -1963,9 +1963,9 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,female,other,higher,6.45802137155802,17,true,high,false,true,false,false,1.6698070522329402,F
 16,male,african-american,some-college,9.6254790365521,14,false,high,false,false,false,false,1.6482889223547217,F
 16,male,african-american,none,12.34708501976134,1,false,none,true,false,false,true,2.7103913101189026,C
-15,female,caucasian,higher,8.09821628539688,10,false,low,true,false,false,false,1.9561691259633316,F
-15,female,african-american,some-college,3.9674507969540262,28,false,moderate,true,true,false,false,0.6729361977994386,F
-15,male,african-american,high-school,19.23280984630608,13,false,moderate,true,true,false,false,2.6071729292255172,C
+15,female,caucasian,higher,8.09821628539688,10,false,low,true,false,false,false,1.956169125963332,F
+15,female,african-american,some-college,3.967450796954026,28,false,moderate,true,true,false,false,0.6729361977994386,F
+15,male,african-american,high-school,19.23280984630608,13,false,moderate,true,true,false,false,2.607172929225517,C
 18,male,caucasian,some-college,10.229350800852348,21,false,high,true,false,true,false,1.5660204997024247,F
 15,female,caucasian,high-school,14.67840740575401,14,true,high,false,false,false,false,2.197394591639808,D
 15,male,african-american,none,8.220943871121163,13,true,high,true,false,false,false,2.332971816562523,D
@@ -1975,7 +1975,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,african-american,some-college,10.883602318839072,14,false,none,true,true,false,false,1.5635740338353443,F
 16,male,caucasian,higher,10.869397399627264,18,false,none,false,false,false,false,0.8707134779286393,F
 15,male,caucasian,high-school,9.943076317657432,26,true,none,false,true,true,false,0.61316598823277,F
-17,female,caucasian,high-school,2.695715698348762,8,false,moderate,true,true,false,false,2.5723917087049193,C
+17,female,caucasian,high-school,2.695715698348762,8,false,moderate,true,true,false,false,2.5723917087049197,C
 17,female,caucasian,high-school,9.921509570010622,4,false,low,false,false,false,false,2.30759662333527,D
 17,female,caucasian,high-school,3.3820780084130297,4,false,low,false,false,true,false,2.3180465210933434,D
 16,female,caucasian,high-school,2.5227157259153032,10,false,high,true,false,false,false,2.31055728577378,D
@@ -1990,15 +1990,15 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,some-college,19.20023761638251,24,false,high,false,false,false,false,1.436375445405192,F
 15,male,caucasian,high-school,16.4092258031663,2,true,low,true,true,false,false,3.399542858486649,B
 18,male,african-american,some-college,17.078969260290872,3,true,low,false,true,false,false,3.5635357914562173,A
-17,female,african-american,high-school,3.4438853485150855,13,false,low,true,true,true,false,2.0744387503601613,D
-17,male,asian,some-college,5.41926415742439,6,false,low,false,false,false,false,2.504005287006646,C
+17,female,african-american,high-school,3.443885348515085,13,false,low,true,true,true,false,2.0744387503601613,D
+17,male,asian,some-college,5.41926415742439,6,false,low,false,false,false,false,2.5040052870066454,C
 15,male,african-american,some-college,5.712531993671542,25,true,high,true,false,false,false,0.9669488067667787,F
 15,male,other,higher,5.418184464937424,7,false,high,false,false,false,false,2.6910442047353333,C
 15,male,caucasian,none,17.10816324208576,23,false,moderate,false,true,false,false,0.8647850838512876,F
 16,male,caucasian,high-school,0.6376959041718422,15,true,very high,true,false,false,false,1.993952452575168,F
 15,female,caucasian,some-college,1.521999779615486,19,false,moderate,true,false,false,false,1.2001797196357924,F
 17,female,caucasian,some-college,5.478297412598074,14,false,very high,false,true,false,false,2.195712898261988,D
-15,female,african-american,high-school,3.997459492988873,6,false,low,false,false,true,false,1.9012665239921256,F
+15,female,african-american,high-school,3.997459492988873,6,false,low,false,false,true,false,1.9012665239921251,F
 17,female,african-american,some-college,4.637192277656967,25,false,very high,true,false,true,false,0.8399765237396326,F
 18,female,caucasian,bachelors,15.958863785066,16,false,none,true,false,false,true,1.3620437691526197,F
 16,female,other,bachelors,11.26253187784094,21,false,moderate,false,false,false,false,0.8507438645015205,F
@@ -2008,16 +2008,16 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,bachelors,2.2789053888908706,17,false,moderate,false,false,true,false,1.2433117162791911,F
 17,male,caucasian,high-school,13.522835772029143,23,true,very high,true,false,false,false,1.9648466563741724,F
 15,female,caucasian,high-school,14.04194376758982,13,true,very high,true,false,false,false,2.6882293307172063,C
-15,male,african-american,high-school,14.417864381041952,14,true,very high,true,true,false,false,2.7397016672595753,C
-17,female,caucasian,some-college,14.56941891117184,14,false,very high,false,false,true,false,2.4961219360335156,D
+15,male,african-american,high-school,14.417864381041952,14,true,very high,true,true,false,false,2.7397016672595758,C
+17,female,caucasian,some-college,14.56941891117184,14,false,very high,false,false,true,false,2.496121936033516,D
 15,male,caucasian,high-school,0.001056538645936,4,true,high,false,true,false,false,2.968807133269986,C
-16,female,other,higher,19.078416076934445,15,false,very high,false,true,false,false,2.2159441692227517,D
+16,female,other,higher,19.078416076934445,15,false,very high,false,true,false,false,2.215944169222752,D
 18,male,african-american,high-school,16.28417534109326,4,false,high,true,false,false,false,3.5037432645192648,A
 16,male,other,none,18.079633931785708,1,false,moderate,false,false,true,false,3.3847294719580105,B
 18,female,caucasian,some-college,0.3128659061486827,19,false,high,false,false,false,false,1.417604009607429,F
 15,female,caucasian,none,18.677175915714788,27,true,very high,false,false,false,false,1.139337063496313,F
 16,female,african-american,high-school,16.195770573762093,24,false,high,false,false,false,false,0.7695898642280781,F
-15,female,caucasian,high-school,16.74438285917397,8,false,moderate,false,false,false,false,2.3484434535441197,D
+15,female,caucasian,high-school,16.74438285917397,8,false,moderate,false,false,false,false,2.34844345354412,D
 18,female,caucasian,some-college,1.8657476944393705,21,false,none,false,false,false,true,0.3218314296846537,F
 17,male,african-american,some-college,14.775560578371952,26,false,high,true,false,true,false,1.1241371864897378,F
 17,female,african-american,some-college,19.19833379284182,8,false,very high,false,false,false,false,2.7170969538329475,C
@@ -2028,7 +2028,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,male,caucasian,some-college,11.985871326209574,17,true,moderate,false,false,false,false,1.7062124885863237,F
 18,male,caucasian,none,9.526765869887324,28,true,high,false,false,false,false,0.9590415228646012,F
 16,female,caucasian,none,18.656924427205983,0,true,very high,true,false,false,true,4.0,A
-18,male,other,some-college,1.5216945353101452,7,false,high,false,false,false,false,1.8589248556209297,F
+18,male,other,some-college,1.5216945353101452,7,false,high,false,false,false,false,1.8589248556209292,F
 17,male,african-american,some-college,10.022394016506963,24,true,moderate,false,false,false,false,1.0007755569217258,F
 15,female,asian,high-school,13.739048827708766,15,false,very high,true,true,false,false,2.413651872584266,D
 17,female,caucasian,high-school,15.83813076844474,25,true,moderate,false,false,false,false,1.1721916329362534,F
@@ -2036,7 +2036,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,bachelors,18.17835488242908,21,true,moderate,false,true,false,false,1.907640379807341,F
 16,female,caucasian,some-college,18.839828937677435,17,false,high,false,false,true,false,2.018579782190191,D
 16,male,caucasian,some-college,1.2863844638716704,21,false,high,false,false,false,false,0.9157121795938512,F
-17,male,asian,some-college,8.047410790827488,8,false,very high,true,true,false,false,3.1291166395835397,B
+17,male,asian,some-college,8.047410790827488,8,false,very high,true,true,false,false,3.12911663958354,B
 16,male,african-american,higher,0.4691804344230887,11,false,moderate,false,false,false,false,1.945989188418632,F
 17,female,african-american,higher,6.588333147488859,18,true,low,false,false,false,false,1.510058697488437,F
 15,male,caucasian,high-school,10.737364359412044,24,false,none,false,true,false,false,0.1530318116508149,F
@@ -2052,7 +2052,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,bachelors,8.052228766803253,24,false,low,true,true,true,false,1.1162284613450342,F
 17,female,caucasian,high-school,17.806051142270405,6,false,moderate,true,false,false,false,3.2011819553323124,B
 16,female,caucasian,high-school,7.678977885259453,27,false,low,false,false,false,false,0.1005921480894177,F
-18,male,other,some-college,14.736336636594004,4,true,low,true,false,false,false,3.0171336823913077,B
+18,male,other,some-college,14.736336636594004,4,true,low,true,false,false,false,3.017133682391308,B
 17,female,caucasian,high-school,9.518844350954485,14,false,high,true,true,false,false,2.220548508939325,D
 17,male,asian,higher,2.45166313014366,19,false,moderate,true,false,false,true,1.1110684623439582,F
 16,female,caucasian,bachelors,18.55868402474043,27,false,moderate,false,true,false,false,0.9918923912020086,F
@@ -2070,16 +2070,16 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,bachelors,9.850437080410169,16,false,low,true,false,false,false,1.7570919535414902,F
 17,male,african-american,some-college,18.29772300243008,20,true,high,false,false,true,false,1.966123442653016,F
 15,female,other,none,9.783930359612311,13,false,none,false,false,false,true,1.301643735879369,F
-17,male,caucasian,high-school,9.005303869932764,1,true,very high,false,true,true,false,3.772896608478867,A
+17,male,caucasian,high-school,9.005303869932764,1,true,very high,false,true,true,false,3.772896608478868,A
 18,female,african-american,some-college,3.98761638021254,15,true,moderate,false,true,true,false,1.922165909079572,F
 16,female,caucasian,high-school,6.15310174712673,12,false,high,false,false,false,false,1.789036775909554,F
 17,female,caucasian,bachelors,0.8466898503660669,26,false,moderate,true,false,false,true,0.6329881184701,F
 17,female,caucasian,some-college,12.670705872323405,8,false,high,true,false,true,false,2.8504352924310816,C
 18,male,other,none,4.970714878541857,6,false,very high,false,false,false,false,2.684821286526617,C
 17,male,asian,bachelors,6.083105089709302,15,false,high,true,false,false,false,1.899340250146643,F
-17,female,other,higher,15.416290433286424,9,false,low,true,false,false,false,2.4543067018642812,D
+17,female,other,higher,15.416290433286424,9,false,low,true,false,false,false,2.454306701864281,D
 18,female,other,none,6.544423663229077,23,true,moderate,true,false,false,false,1.2083322825671698,F
-15,male,caucasian,some-college,4.8439178402628436,21,false,moderate,false,true,false,false,1.5269160461968396,F
+15,male,caucasian,some-college,4.843917840262844,21,false,moderate,false,true,false,false,1.5269160461968396,F
 18,female,caucasian,high-school,3.381154982674115,8,true,moderate,false,true,false,false,2.6867167544354524,C
 15,male,african-american,high-school,15.497168043639116,21,false,moderate,false,false,true,false,1.1307853592581485,F
 16,male,caucasian,high-school,2.5941251598005377,22,false,moderate,false,false,false,false,0.7411030550092116,F
@@ -2092,17 +2092,17 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,african-american,bachelors,5.928814495587944,16,false,none,false,true,false,true,1.1696905137872946,F
 18,female,african-american,some-college,5.6026823755075945,19,false,moderate,false,false,false,false,1.016215042238629,F
 16,male,caucasian,high-school,2.9203381118421645,6,false,moderate,true,false,true,false,2.5210277348652257,C
-16,male,asian,high-school,5.783565077128863,10,false,moderate,false,false,false,false,2.0278419222415676,D
-17,female,caucasian,some-college,6.195306282858068,7,false,high,true,false,false,false,2.6709475543243455,C
-17,female,caucasian,high-school,10.437689238549568,6,false,moderate,false,true,false,false,2.8728793655039593,C
+16,male,asian,high-school,5.783565077128863,10,false,moderate,false,false,false,false,2.027841922241568,D
+17,female,caucasian,some-college,6.195306282858068,7,false,high,true,false,false,false,2.670947554324345,C
+17,female,caucasian,high-school,10.437689238549568,6,false,moderate,false,true,false,false,2.8728793655039597,C
 16,female,asian,some-college,13.27408957852512,27,true,low,false,true,false,false,1.0296486453677298,F
 16,male,african-american,high-school,7.622010272236281,18,true,high,false,false,false,false,1.757497312769606,F
 16,male,caucasian,high-school,14.389404626267623,19,false,very high,true,true,false,false,1.895283343248585,F
-17,male,african-american,some-college,6.7233067715915995,11,false,none,true,true,false,true,2.035367286041147,D
+17,male,african-american,some-college,6.7233067715916,11,false,none,true,true,false,true,2.035367286041147,D
 17,male,african-american,bachelors,5.805673546295207,6,false,moderate,false,false,false,false,2.053147894166025,D
 15,female,asian,bachelors,10.823761117140489,7,false,moderate,false,false,false,false,2.329719254270638,D
 15,female,asian,high-school,0.4743272061158121,6,false,low,false,true,false,false,1.7562115530004156,F
-16,male,african-american,high-school,1.5957824726800074,5,false,moderate,true,true,true,false,2.8273429543273716,C
+16,male,african-american,high-school,1.5957824726800074,5,false,moderate,true,true,true,false,2.827342954327372,C
 18,male,caucasian,high-school,8.359390871730541,24,false,high,false,false,false,false,0.6937125121602848,F
 18,female,caucasian,some-college,18.85825422783513,8,true,low,false,false,true,false,2.953961921722677,C
 17,male,caucasian,some-college,14.430235596868473,26,true,very high,false,false,false,false,0.9894684413187074,F
@@ -2117,7 +2117,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,some-college,10.976835111869477,1,false,none,false,false,false,false,2.7905751470187807,C
 15,female,african-american,high-school,10.766527440198242,29,false,low,false,false,false,false,0.3785436345391653,F
 18,female,other,high-school,11.301475829602106,7,false,low,false,false,false,true,2.1728123218250155,D
-15,male,caucasian,none,18.974098364783615,16,false,very high,true,true,false,false,2.3916876827143443,D
+15,male,caucasian,none,18.97409836478361,16,false,very high,true,true,false,false,2.3916876827143443,D
 18,female,caucasian,some-college,18.04491246192463,12,false,none,false,true,false,false,1.7831074672235316,F
 18,male,caucasian,high-school,17.514340731178788,17,false,low,true,true,false,false,1.7859269858399722,F
 18,male,african-american,none,16.028336218172544,23,false,very high,true,false,false,false,1.2687721230682183,F
@@ -2129,7 +2129,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,caucasian,higher,10.10331423045465,1,false,high,true,true,false,false,3.812757187598897,A
 17,male,asian,high-school,14.960694786831771,26,false,very high,true,false,true,true,1.1767815056705988,F
 18,male,african-american,high-school,2.7791981049783243,13,false,moderate,true,true,false,true,1.948327515860377,F
-15,male,asian,high-school,5.048276259531203,15,false,low,false,true,false,false,1.8080971980423572,F
+15,male,asian,high-school,5.048276259531203,15,false,low,false,true,false,false,1.8080971980423568,F
 15,male,african-american,high-school,14.635521900753448,6,false,high,false,true,true,false,3.222140089605496,B
 16,female,asian,high-school,3.294680177754481,20,false,moderate,true,false,false,false,0.8092601434109807,F
 15,female,caucasian,bachelors,7.027118693098535,20,true,moderate,true,true,false,false,1.2945928801079334,F
@@ -2143,7 +2143,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,male,caucasian,none,7.397772512962497,3,false,low,true,false,false,false,2.81347034515229,C
 16,male,african-american,some-college,12.97068318066685,25,false,high,true,true,true,false,1.65178667236737,F
 15,male,african-american,some-college,14.507792033236653,3,false,low,true,true,false,false,3.603507572240497,A
-15,female,caucasian,some-college,4.1932184422340075,17,false,moderate,true,false,false,false,1.5269602894052965,F
+15,female,caucasian,some-college,4.193218442234008,17,false,moderate,true,false,false,false,1.5269602894052965,F
 18,male,african-american,some-college,17.693499699066997,2,true,high,false,true,false,true,3.4590447338738057,B
 15,male,caucasian,high-school,12.32448503213906,0,false,low,true,false,false,false,3.3339700023673537,B
 15,female,caucasian,none,8.57450283502963,16,false,high,false,false,false,false,1.7181817231817458,F
@@ -2154,17 +2154,17 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,high-school,6.75421549448449,4,true,low,false,false,true,true,2.864498066852598,C
 15,male,asian,some-college,16.193485161761465,18,false,high,false,false,true,false,1.733364046560005,F
 18,female,caucasian,some-college,13.91355326430678,6,false,high,true,false,false,false,2.9868916209305363,C
-18,female,african-american,high-school,15.315685854314488,13,true,very high,false,false,false,false,2.5653680526952476,C
+18,female,african-american,high-school,15.315685854314488,13,true,very high,false,false,false,false,2.565368052695248,C
 18,female,african-american,bachelors,8.824022044258648,1,false,high,false,false,false,true,3.1391893048250425,B
-17,female,asian,bachelors,14.329525252843338,2,true,moderate,true,false,false,true,3.636416567860031,A
-16,female,other,some-college,7.729874457278275,16,false,very high,false,false,true,false,1.467442366638756,F
+17,female,asian,bachelors,14.329525252843338,2,true,moderate,true,false,false,true,3.636416567860032,A
+16,female,other,some-college,7.729874457278274,16,false,very high,false,false,true,false,1.467442366638756,F
 15,male,caucasian,none,4.225258338763929,15,true,high,false,false,false,false,1.7995311493172337,F
 15,male,caucasian,some-college,12.6535406968272,7,true,high,false,true,false,false,3.1831261171881216,B
 15,male,asian,some-college,19.520278511975885,17,false,none,false,false,false,false,1.441964197006561,F
 17,male,caucasian,high-school,6.212019427906592,14,false,moderate,true,true,true,false,1.8815889866263615,F
 18,female,african-american,high-school,9.219391844250794,6,true,high,false,false,true,false,3.1326292974173744,B
 16,male,african-american,bachelors,13.480027421397072,26,false,moderate,true,false,false,false,0.8142853492286524,F
-17,female,african-american,none,10.830125642449758,8,false,moderate,false,false,false,false,2.477790374289635,D
+17,female,african-american,none,10.830125642449758,8,false,moderate,false,false,false,false,2.4777903742896354,D
 18,female,other,some-college,16.868555914180984,5,false,low,true,false,false,false,2.9713320163258232,C
 17,female,other,some-college,15.234854129390316,17,true,moderate,true,false,false,false,2.071972431377945,D
 16,male,asian,some-college,1.1659440772471408,17,true,low,true,true,false,true,1.6356867327778124,F
@@ -2175,12 +2175,12 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,asian,some-college,17.125702560935245,13,false,low,false,false,true,false,1.798950340087624,F
 15,female,caucasian,some-college,2.247659498574188,13,true,low,true,true,true,false,1.687307435197655,F
 17,male,caucasian,higher,6.954756711186311,24,true,moderate,false,false,true,false,0.9030855768578068,F
-18,female,caucasian,some-college,17.528418872089855,3,false,high,false,false,true,false,3.1376243508475437,D
+18,female,caucasian,some-college,17.528418872089855,3,false,high,false,false,true,false,3.137624350847544,D
 18,male,asian,high-school,4.033104225337844,3,true,high,false,false,false,true,3.189217169770364,C
 17,female,african-american,higher,1.564841971600455,14,false,low,false,true,false,false,1.795369078193629,D
 18,female,african-american,some-college,15.76237879890438,14,false,moderate,true,true,false,false,2.435958199527401,F
 18,male,caucasian,high-school,16.709723112865923,17,false,high,false,false,false,false,1.6884896091579062,F
-15,male,asian,high-school,3.253044363798012,13,true,low,false,false,false,false,1.8440563794665377,B
+15,male,asian,high-school,3.253044363798012,13,true,low,false,false,false,false,1.8440563794665372,B
 17,male,asian,bachelors,17.08691965565431,25,true,moderate,false,false,false,false,1.3055845144947993,C
 16,male,caucasian,high-school,13.735355911943392,0,false,moderate,true,false,false,false,3.545153035874012,C
 15,male,caucasian,some-college,10.40165366433168,9,false,low,false,false,false,true,2.17234554236808,F
@@ -2220,7 +2220,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,bachelors,7.560621244663903,12,false,none,false,false,false,false,1.2878189977208636,D
 17,female,caucasian,some-college,0.1621639377242645,29,false,moderate,false,false,false,false,0.0,B
 18,male,caucasian,high-school,0.1850504487180471,26,false,very high,false,false,false,false,0.5764027197831978,A
-17,male,caucasian,high-school,9.211320151245117,19,true,very high,false,true,true,true,1.9922988471433192,B
+17,male,caucasian,high-school,9.211320151245117,19,true,very high,false,true,true,true,1.9922988471433196,B
 16,male,caucasian,some-college,9.766698260086692,0,false,none,false,true,false,false,3.043931624402609,C
 15,male,caucasian,none,0.4513939314688531,9,false,low,false,false,false,false,1.756186167808898,F
 18,female,asian,high-school,13.73854833548605,7,false,very high,true,false,false,true,3.2537859623175915,D
@@ -2259,15 +2259,15 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,high-school,5.812859386130622,20,true,low,false,false,false,false,1.0085719028530793,B
 18,male,caucasian,some-college,5.949853399853364,20,true,none,false,false,false,false,0.968725634893168,B
 17,female,asian,high-school,5.926961537611614,8,true,low,false,false,false,false,2.681277359272072,D
-15,female,caucasian,bachelors,14.511364951198964,7,false,moderate,false,true,false,true,2.401373852557811,F
+15,female,caucasian,bachelors,14.511364951198964,7,false,moderate,false,true,false,true,2.4013738525578114,F
 18,male,asian,high-school,4.596520835850722,12,true,moderate,true,false,false,false,2.376854346050859,D
 16,female,caucasian,some-college,0.0181167049218045,16,false,very high,true,false,true,false,1.94767693624079,B
 16,male,caucasian,none,14.304737069652662,18,true,moderate,true,false,false,false,1.7797561259491266,B
-16,male,asian,high-school,3.4236948767025055,27,false,high,true,false,false,false,0.5575488870769554,C
-15,female,african-american,some-college,2.089647906156693,6,false,moderate,false,true,true,false,2.7954058088138596,D
+16,male,asian,high-school,3.423694876702505,27,false,high,true,false,false,false,0.5575488870769554,C
+15,female,african-american,some-college,2.089647906156693,6,false,moderate,false,true,true,false,2.79540580881386,D
 18,male,caucasian,bachelors,4.750322411881203,16,false,high,false,false,false,false,1.5147637597128956,A
 18,female,asian,some-college,7.598010446454079,0,true,high,false,false,false,false,3.040729612939948,F
-15,male,african-american,bachelors,9.518126549464014,4,true,moderate,true,false,false,false,3.2084617461840477,D
+15,male,african-american,bachelors,9.518126549464014,4,true,moderate,true,false,false,false,3.208461746184048,D
 18,male,african-american,some-college,0.8914008142526164,24,false,low,true,false,false,false,0.621119927824666,B
 15,male,caucasian,some-college,19.411466652547208,5,false,moderate,false,false,false,true,2.7996697335356093,C
 15,male,asian,high-school,14.321261068391165,25,true,high,false,false,false,false,1.3023928842500831,F
@@ -2276,7 +2276,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,bachelors,8.970850987369188,24,true,low,false,true,false,false,1.16974580305184,B
 15,female,asian,bachelors,12.52489645526066,15,false,none,true,true,false,false,2.2847914471212656,A
 18,female,african-american,bachelors,2.927461331779355,21,false,moderate,false,false,false,false,1.021019253339771,C
-16,female,african-american,some-college,3.7785962752990465,4,false,high,true,false,false,true,2.8973550040674096,A
+16,female,african-american,some-college,3.7785962752990474,4,false,high,true,false,false,true,2.8973550040674096,A
 15,female,caucasian,some-college,17.18869165667102,4,false,moderate,false,true,false,false,3.2759034528026745,D
 17,male,asian,some-college,5.125098477781451,11,false,high,true,true,false,false,2.430091199210449,F
 16,male,asian,high-school,7.603899959503551,2,true,low,true,false,true,false,3.228448079477929,B
@@ -2284,25 +2284,25 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,female,caucasian,none,13.26295658799645,15,false,high,true,false,false,false,2.024030375549312,B
 18,male,asian,some-college,6.834237586833767,5,false,high,true,false,false,false,3.03416743887847,D
 16,male,caucasian,high-school,13.673990914492416,14,false,low,true,false,false,false,1.6998253090682822,A
-18,male,other,high-school,0.3936643076282742,14,true,moderate,false,true,true,true,2.0956481907808393,B
+18,male,other,high-school,0.3936643076282742,14,true,moderate,false,true,true,true,2.0956481907808397,B
 17,female,african-american,high-school,14.712853200227304,28,false,high,false,false,false,false,0.5242135665585334,B
 15,female,african-american,some-college,9.74032081032479,15,false,none,false,false,false,false,1.3026414038177534,D
 15,female,caucasian,some-college,16.263642945689224,19,true,high,true,false,true,false,2.1371244106086893,C
 15,male,caucasian,none,19.092753040129367,12,false,moderate,true,false,false,true,2.4222760935888,D
 16,male,other,some-college,18.515770989891365,11,false,low,false,false,false,false,2.569614181305555,A
-18,female,caucasian,high-school,18.185300869106815,9,false,high,false,true,false,false,2.70295861751592,A
+18,female,caucasian,high-school,18.18530086910681,9,false,high,false,true,false,false,2.70295861751592,A
 17,female,asian,some-college,10.243399118677743,13,true,low,true,true,false,true,2.3116704996467785,F
-18,male,caucasian,some-college,7.202842282778761,1,false,very high,false,true,false,false,3.3849920887606735,B
+18,male,caucasian,some-college,7.202842282778761,1,false,very high,false,true,false,false,3.384992088760673,B
 18,male,caucasian,some-college,9.300706494613456,28,true,high,false,false,false,false,0.3907558869817938,A
 18,male,caucasian,some-college,13.797920066267215,2,true,high,false,false,false,false,3.597766084455523,C
 15,male,african-american,high-school,17.679955537423734,8,false,none,false,true,false,false,2.275665113075239,C
-17,female,other,some-college,4.139726060002391,10,false,very high,true,false,false,false,2.7105767007709916,D
+17,female,other,some-college,4.139726060002391,10,false,very high,true,false,false,false,2.710576700770992,D
 17,male,caucasian,some-college,18.36386316923406,10,false,high,false,true,false,true,2.5559753763709523,A
 18,male,caucasian,some-college,16.303604639397783,24,false,low,false,true,false,true,1.027727966185627,A
 15,male,caucasian,some-college,19.57712030356469,21,true,moderate,true,false,false,false,2.0956913654305778,F
 15,female,african-american,none,17.605035465633744,9,false,low,false,false,false,false,2.380839869039285,F
 17,female,caucasian,some-college,5.598746593838133,25,false,very high,false,false,false,false,0.66207873669096,F
-15,male,asian,some-college,2.119118226880954,13,true,high,true,false,false,false,1.9965131156897775,A
+15,male,asian,some-college,2.119118226880954,13,true,high,true,false,false,false,1.9965131156897773,A
 15,male,african-american,high-school,2.2448214398317723,8,false,very high,true,false,false,false,2.1398641508658107,D
 15,male,african-american,none,5.8244663715655225,19,false,high,false,true,false,false,1.361434707190739,D
 16,female,caucasian,none,12.283674479690784,26,false,moderate,false,true,false,false,0.4958590410264636,D
@@ -2316,7 +2316,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 17,female,asian,high-school,10.027019872674918,7,false,high,false,false,true,false,2.3433313526833226,C
 15,male,caucasian,bachelors,0.8679435715712169,10,true,moderate,false,false,false,false,2.2404508383745223,A
 16,female,asian,none,6.969559515913106,0,true,moderate,false,false,false,false,3.0526409582889382,B
-15,female,african-american,high-school,3.5835934925064516,20,false,high,true,false,false,false,0.9538406849215224,D
+15,female,african-american,high-school,3.583593492506452,20,false,high,true,false,false,false,0.9538406849215224,D
 17,male,caucasian,higher,12.94140332517748,9,false,moderate,true,false,true,true,2.596111264562239,C
 17,male,caucasian,some-college,9.2854473864868,0,false,very high,true,false,true,true,4.0,D
 17,female,caucasian,high-school,9.906352938678175,25,false,high,true,true,false,false,1.0823899503415932,D
@@ -2345,7 +2345,7 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 15,male,caucasian,high-school,7.909781523671404,5,false,high,false,false,false,false,2.915898132959834,A
 15,male,african-american,high-school,6.446769161618873,2,true,none,false,false,false,true,2.799063885002723,C
 18,male,caucasian,bachelors,12.207877332881072,1,false,high,false,true,false,false,3.2501100112534,D
-17,male,caucasian,high-school,18.782173966204812,19,false,moderate,false,false,true,false,1.823323102645846,B
+17,male,caucasian,high-school,18.78217396620481,19,false,moderate,false,false,true,false,1.8233231026458456,B
 16,female,african-american,some-college,13.434896809549668,4,false,high,false,false,true,false,2.992912336093737,F
 18,male,asian,some-college,1.49491807272631,10,true,very high,false,false,true,false,2.6317363035461985,D
 18,female,caucasian,high-school,9.213699469642677,25,true,low,true,false,false,false,0.9326697393710618,C
@@ -2356,13 +2356,13 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 16,female,caucasian,some-college,1.5654896145975172,4,true,very high,true,true,false,false,3.9794209177543953,F
 17,female,caucasian,high-school,18.668266408991094,21,false,moderate,false,true,true,false,1.521013489971915,B
 16,male,caucasian,bachelors,7.262651805189244,22,false,high,false,false,false,false,0.7662574469888989,D
-17,male,asian,high-school,16.89418334151725,10,false,high,false,false,false,true,2.4713957791802716,F
+17,male,asian,high-school,16.89418334151725,10,false,high,false,false,false,true,2.471395779180272,F
 16,male,caucasian,some-college,8.36766675426543,2,false,very high,true,false,false,false,3.286585133610396,B
-15,male,caucasian,high-school,8.817102254050317,12,true,moderate,true,false,true,false,2.1214734424871557,D
+15,male,caucasian,high-school,8.817102254050317,12,true,moderate,true,false,true,false,2.121473442487156,D
 18,male,african-american,bachelors,12.684861819550852,20,false,moderate,false,false,false,false,1.3476334931151803,C
 16,female,african-american,some-college,15.489548385519669,7,false,none,false,false,false,false,2.4629431182407853,A
 17,female,asian,some-college,0.6757830189649727,19,true,none,false,false,false,false,1.0410289006678957,C
-18,female,asian,high-school,11.863119910542686,9,false,high,true,false,false,false,2.6699790353047614,C
+18,female,asian,high-school,11.863119910542686,9,false,high,true,false,false,false,2.669979035304761,C
 18,female,caucasian,some-college,3.73465988194742,1,true,none,false,false,false,false,2.735041610764964,A
 17,female,asian,some-college,6.918990357264059,3,false,moderate,false,false,false,false,2.742091793566248,C
 16,female,caucasian,some-college,6.95937332310433,17,false,none,false,false,false,false,0.9842942952193188,C
@@ -2379,15 +2379,15 @@ Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,Parenta
 18,male,caucasian,some-college,12.749976058683265,8,true,none,true,true,false,false,2.6523548127186087,C
 15,female,caucasian,some-college,12.905555106471258,26,false,moderate,false,false,true,true,0.7093533742145925,D
 18,female,caucasian,some-college,16.53455296792564,12,false,high,false,false,false,false,2.5094912303073182,B
-16,female,caucasian,some-college,2.138397287596427,8,false,low,true,true,false,false,1.979379413769687,B
-15,male,asian,none,10.095086471310834,5,false,high,false,false,false,false,2.9562545236156157,A
+16,female,caucasian,some-college,2.1383972875964274,8,false,low,true,true,false,false,1.979379413769687,B
+15,male,asian,none,10.095086471310834,5,false,high,false,false,false,false,2.956254523615616,A
 16,male,caucasian,bachelors,13.941822765215171,20,false,moderate,false,false,false,false,1.1919290455522094,D
 16,female,asian,some-college,11.736408901471274,18,true,very high,false,false,false,false,1.810037822647263,D
 15,female,caucasian,high-school,16.655581420465893,13,true,high,false,true,false,false,2.539112848520151,F
 16,female,caucasian,high-school,1.44543418022703,20,false,high,true,true,false,false,1.3956306751141432,B
-16,male,caucasian,some-college,13.81402078998332,14,false,moderate,false,false,false,false,2.0000840111419236,F
-18,female,caucasian,bachelors,10.680554607694354,2,false,very high,true,false,false,false,3.455509411034394,A
-17,male,caucasian,high-school,7.583217279598868,4,true,very high,false,true,false,false,3.2791497270250276,F
+16,male,caucasian,some-college,13.81402078998332,14,false,moderate,false,false,false,false,2.000084011141924,F
+18,female,caucasian,bachelors,10.680554607694354,2,false,very high,true,false,false,false,3.4555094110343934,A
+17,male,caucasian,high-school,7.583217279598868,4,true,very high,false,true,false,false,3.279149727025028,F
 16,female,caucasian,some-college,6.8054996446806175,20,false,moderate,false,false,false,true,1.142332879526157,C
 16,female,african-american,none,12.416652655483858,17,false,moderate,false,true,true,false,1.8032967626292096,B
 16,female,caucasian,some-college,17.819907492885296,13,false,moderate,false,false,false,true,2.1400138778043982,B
