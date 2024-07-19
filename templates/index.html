@@ -55,6 +55,17 @@
             font-size: 16px;
         }
 
+        button[type="button"] {
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: blue;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
         button[type="submit"]:hover {
             background-color: #45a049;
         }
@@ -82,7 +93,7 @@
             
             <label for="gender">Gender:</label>
             <select id="gender" name="gender" required>
-                <option value="">Select Gender</option>
+                <option value=""></option>
                 <option value="male">Male</option>
                 <option value="female">Female</option>
             </select>
@@ -156,6 +167,7 @@
             </select>
             
             <button type="submit">Submit</button>
+            <button type="button" onclick="clearForm()">Clear</button>
             <p id="error-message"></p>
         </form>
     </div>
@@ -200,6 +212,22 @@
             // Clear any previous error messages
             document.getElementById('error-message').innerText = '';
             return true;
+        }
+
+        function clearForm() {
+            document.getElementById('age').value = '';
+            document.getElementById('gender').value = '';
+            document.getElementById('ethnicity').value = '';
+            document.getElementById('parent_education').value = '';
+            document.getElementById('study_time').value = '';
+            document.getElementById('absences').value = '';
+            document.getElementById('tutoring').value = '';
+            document.getElementById('parental_support').value = '';
+            document.getElementById('extracurricular').value = '';
+            document.getElementById('sports').value = '';
+            document.getElementById('music').value = '';
+            document.getElementById('volunteering').value = '';
+            document.getElementById('error-message').innerText = '';
         }
     </script>
 </body>
