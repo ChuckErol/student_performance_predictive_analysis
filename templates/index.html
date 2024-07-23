@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,13 +95,22 @@
             margin-top: 10px;
             text-align: center;
         }
+
+        #result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            border-radius: 4px;
+            display: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h2>GPA prediction</h2>
-        <form action="/validate_user_info" method="post" onsubmit="return validateUserInfo()">
-
+        <h2>GPA Prediction</h2>
+        <form id="user-info-form" method="post">
             <label for="age">Age:</label>
             <select id="age" name="age" required>
                 <option value=""></option>
@@ -189,65 +199,41 @@
             <button type="button" onclick="clearForm()">Clear</button>
             <button id="tableau"><a href="https://public.tableau.com/app/profile/chris.kilkes/viz/Project4EDAVisualizations_071824_Final/EthnicityGenderDataEDADashboard" target="_blank">Data Analysis</a></button>
             <p id="error-message"></p>
+            <div id="result"></div>
         </form>
     </div>
 
     <script>
-        function validateUserInfo() {
-            var age = document.getElementById('age').value;
-            var gender = document.getElementById('gender').value;
-            var ethnicity = document.getElementById('ethnicity').value;
-            var parentEducation = document.getElementById('parent_education').value;
-            var studyTime = document.getElementById('study_time').value;
-            var absences = document.getElementById('absences').value;
-            var tutoring = document.getElementById('tutoring').value;
-            var parentalSupport = document.getElementById('parental_support').value;
-            var extracurricular = document.getElementById('extracurricular').value;
-            var sports = document.getElementById('sports').value;
-            var music = document.getElementById('music').value;
-            var volunteering = document.getElementById('volunteering').value;
+        document.getElementById('user-info-form').addEventListener('submit', function(event) {
+            event.preventDefault(); 
 
-            // Validate all inputs
-            if (age === "" || gender === "" || ethnicity === "" || parentEducation === "" ||
-                studyTime === "" || absences === "" || tutoring === "" || parentalSupport === "" ||
-                extracurricular === "" || sports === "" || music === "" || volunteering === "") {
-                document.getElementById('error-message').innerText = 'Error: Please fill in all fields.';
-                return false;
-            }
+            var formData = new FormData(this);
 
-            // Validate specific inputs
-            if (!Number.isInteger(parseInt(age))) {
-                document.getElementById('error-message').innerText = 'Error: Age must be a valid integer.';
-                return false;
-            }
-            if (!Number.isInteger(parseInt(studyTime))) {
-                document.getElementById('error-message').innerText = 'Error: Study time must be a valid integer.';
-                return false;
-            }
-            if (!Number.isInteger(parseInt(absences))) {
-                document.getElementById('error-message').innerText = 'Error: Absences must be a valid integer.';
-                return false;
-            }
-
-            // Clear any previous error messages
-            document.getElementById('error-message').innerText = '';
-            return true;
-        }
+            fetch('/validate_user_info', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.valid) {
+                    document.getElementById('result').innerText = `Predicted GPA: ${data.predicted_gpa}`;
+                    document.getElementById('result').style.display = 'block';
+                    document.getElementById('error-message').innerText = '';
+                } else {
+                    document.getElementById('error-message').innerText = data.message;
+                    document.getElementById('result').style.display = 'none';
+                }
+            })
+            .catch(error => {
+                document.getElementById('error-message').innerText = 'An error occurred. Please try again.';
+                document.getElementById('result').style.display = 'none';
+            });
+        });
 
         function clearForm() {
-            document.getElementById('age').value = '';
-            document.getElementById('gender').value = '';
-            document.getElementById('ethnicity').value = '';
-            document.getElementById('parent_education').value = '';
-            document.getElementById('study_time').value = '';
-            document.getElementById('absences').value = '';
-            document.getElementById('tutoring').value = '';
-            document.getElementById('parental_support').value = '';
-            document.getElementById('extracurricular').value = '';
-            document.getElementById('sports').value = '';
-            document.getElementById('music').value = '';
-            document.getElementById('volunteering').value = '';
+            document.getElementById('user-info-form').reset();
             document.getElementById('error-message').innerText = '';
+            document.getElementById('result').style.display = 'none';
         }
     </script>
 </body>
