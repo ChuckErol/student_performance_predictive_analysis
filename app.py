@@ -20,7 +20,7 @@ def validate_user_info():
         gender = request.form['gender']
         ethnicity = request.form['ethnicity']
         parent_education = request.form['parent_education']
-        study_time = int(request.form['study_time'])
+        study_time = request.form['study_time']
         absences = int(request.form['absences'])
         tutoring = request.form['tutoring']
         parental_support = request.form['parental_support']
@@ -32,8 +32,8 @@ def validate_user_info():
         # Perform additional validation if needed
         if age not in [15, 16, 17, 18]:
             raise ValueError("Invalid age")
-        if age <= 0 or study_time < 0 or absences < 0:
-            raise ValueError("Invalid input values")
+        # if age <= 0 or study_time < 0 or absences < 0:
+        #     raise ValueError("Invalid input values")
 
         # Convert categorical inputs to numerical values (if necessary)
         gender = 1 if gender == 'female' else 0
