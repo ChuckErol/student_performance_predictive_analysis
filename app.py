@@ -20,7 +20,7 @@ def validate_user_info():
         gender = request.form['gender']
         ethnicity = request.form['ethnicity']
         parent_education = request.form['parent_education']
-        study_time = int(request.form['study_time'])
+        study_time = request.form['study_time']
         absences = int(request.form['absences'])
         tutoring = request.form['tutoring']
         parental_support = request.form['parental_support']
@@ -32,6 +32,7 @@ def validate_user_info():
         # Perform additional validation if needed
         if age not in [15, 16, 17, 18]:
             raise ValueError("Invalid age")
+<<<<<<< HEAD
         if age <= 0 or study_time < 0 or absences < 0:
             raise ValueError("Invalid input values")
 
@@ -46,6 +47,22 @@ def validate_user_info():
         music = 1 if music == 'true' else 0
         volunteering = 1 if volunteering == 'true' else 0
 
+=======
+        # if age <= 0 or study_time < 0 or absences < 0:
+        #     raise ValueError("Invalid input values")
+
+        # Convert categorical inputs to numerical values (if necessary)
+        gender = 1 if gender == 'female' else 0
+        ethnicity = {'caucasian': 0, 'african-american': 1, 'asian': 2, 'other': 3}.get(ethnicity, -1)
+        parent_education = {'none': 0, 'high-school': 1, 'some-college': 2, 'bachelors': 3, 'higher': 4}.get(parent_education, -1)
+        tutoring = 1 if tutoring == 'true' else 0
+        parental_support = {'none': 0, 'low': 1, 'moderate': 2, 'high': 3, 'very high': 4}.get(parental_support, -1)
+        extracurricular = 1 if extracurricular == 'true' else 0
+        sports = 1 if sports == 'true' else 0
+        music = 1 if music == 'true' else 0
+        volunteering = 1 if volunteering == 'true' else 0
+
+>>>>>>> 4149c54e39cd045aab4352716df000b6e0275bf9
         # Prepare input data for prediction
         input_data = np.array([[age, gender, ethnicity, parent_education, study_time, absences,
                                 tutoring, parental_support, extracurricular, sports, music, volunteering]])
